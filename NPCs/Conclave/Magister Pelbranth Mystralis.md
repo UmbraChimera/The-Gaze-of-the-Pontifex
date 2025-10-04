@@ -25,7 +25,7 @@ Deep, resonant voice. Often distracted mid-conversation by unseen calculations.
 - Keep peace between divine and arcane factions.
 
 ### Relationships
-- Mediator between [[NPCs/Conclave/Corellon_Thalanil|Thalanil]] and [[NPCs/Conclave/Lathander_Serenya|Serenya]].
+- Mediator between [[Coronal Thalanil Aurelion|Thalanil]] and [[Dawnlady Serenya Vaelith|Serenya]].
 
 ### Secrets
 - Keeps forbidden texts on the true origins of the Spire sealed in his archives.

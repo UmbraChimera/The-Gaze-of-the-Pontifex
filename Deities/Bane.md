@@ -12,7 +12,7 @@ In **Respite**, Bane’s presence is tolerated for balance—his soldiers, the F
 - **Domains:** War, Order  
 - **Symbol:** Black handprint  
 - **Colors:** Black and green  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Bane_Korven|High Fist Korven Dreadmark]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[High Fist Korven Dreadmark|High Fist Korven Dreadmark]]  
 - **Primary Order:** The Fists of Bane  
 
 > **Public Sense (Respite):** “The Black Hand strikes so others need not.”  
@@ -33,7 +33,7 @@ Citizens fear Banites but admit crime dwindles where they patrol.
 - **Structure:** Militarized, authoritarian hierarchy.  
 - **Duties:** Police subversive groups, enforce curfews, lead covert operations.  
 - **Uniform Cue:** Black-green armor with spiked gauntlet on left arm.  
-- **Allies & Friction:** Formally obey [[NPCs/Conclave/Corellon_Thalanil|Thalanil]]; loathed by Reformers.  
+- **Allies & Friction:** Formally obey [[Coronal Thalanil Aurelion|Thalanil]]; loathed by Reformers.  
 
 ---
 
@@ -52,7 +52,7 @@ Citizens fear Banites but admit crime dwindles where they patrol.
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Bane_Korven|Korven Dreadmark]] — Bloc: Outsider.  
+- **Representative:** [[High Fist Korven Dreadmark|High Fist Korven Dreadmark]] — Bloc: Outsider.  
 - **Voting Tendencies:** Votes for order, against reform.  
 - **Stance on Industry:** Supports it if it strengthens control.  
 

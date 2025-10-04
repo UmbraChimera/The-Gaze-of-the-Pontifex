@@ -11,7 +11,7 @@ God of justice, fairness, and law. Tyr’s faith is the moral compass of **Respi
 - **Domains:** War, Order  
 - **Symbol:** Balanced scales set on a warhammer  
 - **Colors:** Silver and deep blue  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Tyr_Jorven|Justiciar Jorven Harth]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Justiciar Jorven Harth|Justiciar Jorven Harth]]  
 - **Primary Order:** The Justicars  
 
 > **Public Sense (Respite):** “Where Tyr walks, lies flee.”  
@@ -32,7 +32,7 @@ The Justicars are respected arbiters; their severity inspires fear and reverence
 - **Structure:** Strict hierarchy; all judgments are recorded and witnessed.  
 - **Duties:** Oversee courts, trials, and investigations of treason.  
 - **Uniform Cue:** Silvered armor with engraved scales; left arm bears a solid steel gauntlet.  
-- **Allies & Friction:** Allied with [[NPCs/Conclave/Helm_Selbrecht|Helm’s Watchers]]; critical of [[NPCs/Conclave/Lathander_Serenya|Serenya’s]] populism.  
+- **Allies & Friction:** Allied with [[High Watcher Selbrecht Ironveil|Helm’s Watchers]]; critical of [[Dawnlady Serenya Vaelith|Serenya’s]] populism.  
 
 ---
 
@@ -50,7 +50,7 @@ The Justicars are respected arbiters; their severity inspires fear and reverence
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Tyr_Jorven|Justiciar Jorven Harth]] — Bloc: Traditionalist.  
+- **Representative:** [[Justiciar Jorven Harth|Justiciar Jorven Harth]] — Bloc: Traditionalist.  
 - **Voting Tendencies:** Upholds law and precedent; opposes the Red Banner and anarchic reformers.  
 - **Stance on Industry:** Approves only if regulated under temple contracts.  
 

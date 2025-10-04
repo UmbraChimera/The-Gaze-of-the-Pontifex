@@ -25,8 +25,8 @@ Always smiling, calls everyone 'dear.' Waves constantly, even mid-debate.
 - Mediate between Reformers and Traditionalists.
 
 ### Relationships
-- Best friends with [[NPCs/Conclave/Chauntea_Alliera|Grainmother Alliera]].
-- Dislikes [[NPCs/Conclave/Bane_Korven|High Fist Korven]].
+- Best friends with [[Grainmother Alliera|Grainmother Alliera]].
+- Dislikes [[High Fist Korven Dreadmark|High Fist Korven]].
 
 ### Secrets
 - Secretly funds underground pilgrim smuggling to rescue refugees denied entry to Respite.

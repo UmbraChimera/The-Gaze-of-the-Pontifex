@@ -25,8 +25,8 @@ Quiet, deliberate speech; blindfolded eyes turn toward whoever he addresses as i
 - Strengthen the Watchers Eternal.
 
 ### Relationships
-- Trusted by [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
-- Tolerates [[NPCs/Conclave/Lathander_Serenya|Serenya]] but doubts her motives.
+- Trusted by [[Coronal Thalanil Aurelion|Thalanil]].
+- Tolerates [[Dawnlady Serenya Vaelith|Serenya]] but doubts her motives.
 
 ### Secrets
 - Secretly maintains dossiers on all Conclave members, including the Pontifex.

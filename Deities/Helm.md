@@ -11,8 +11,8 @@ Lawful, tireless guardian of the innocent and the dutiful. Helm’s faithful are
 - **Cleric Domains (SRD):** **Life**, **Light**  
 - **Symbol:** A staring eye set in a gauntlet  
 - **Colors:** Steel blue, iron gray, white  
-- **Seat on the [[Conclave of Faiths]]:** Represented by [[NPCs/Conclave/Helm_Selbrecht|High Watcher Selbrecht Ironveil]]  
-- **Primary Order in Respite:** [[The Sanctified Guard|Sanctified Guard]] — **Watchers Eternal** (≈10% of the Guard)
+- **Seat on the [[Conclave of Faiths]]:** Represented by [[High Watcher Selbrecht Ironveil|High Watcher Selbrecht Ironveil]]  
+- **Primary Order in Respite:** [[Sanctified Guard|Sanctified Guard]] — **Watchers Eternal** (≈10% of the Guard)
 
 > **Public Sense (Respite):** “If the lamps are lit and the walls are manned, Helm is at his post.” Citizens respect Helmites as fair but unyielding; smugglers and agitators see them as the city’s unblinking eye.
 
@@ -30,10 +30,10 @@ Lawful, tireless guardian of the innocent and the dutiful. Helm’s faithful are
 
 ## Clergy & Organization in Respite
 - **Titles:** *Watcher* (rank-and-file), *High Watcher* (city prelate), **High Watcher Selbrecht Ironveil** sits the Conclave seat.  
-- **Order:** **Watchers Eternal** — the Helmite arm within the [[The Sanctified Guard|Sanctified Guard]].  
+- **Order:** **Watchers Eternal** — the Helmite arm within the [[Sanctified Guard|Sanctified Guard]].  
 - **Duties:** Walls and gates, curfew bells, border and harbor security (with Torm’s marshals on embassies).  
 - **Uniform Cue:** Left arm/shoulder bears an **eye-in-gauntlet** motif over heavy plate; some wear crested helms tied into the shoulder design.  
-- **Allies & Friction:** Works cleanly with [[NPCs/Conclave/Tyr_Jorven|Tyr’s Justiciars]] and [[NPCs/Conclave/Torm_Ydris|Torm’s Loyal Furies]]; clashes with reformist street preachers and smugglers policed at the [[Cities/Respite_Riverfront|Riverfront]].
+- **Allies & Friction:** Works cleanly with [[Justiciar Jorven Harth|Tyr’s Justiciars]] and [[Loyal Fury Marshal Ydris Cindral|Torm’s Loyal Furies]]; clashes with reformist street preachers and smugglers policed at the Riverfront.
 
 ---
 
@@ -53,7 +53,7 @@ Lawful, tireless guardian of the innocent and the dutiful. Helm’s faithful are
 ---
 
 ## Relationships & Politics (Conclave)
-- **Representative:** [[NPCs/Conclave/Helm_Selbrecht|High Watcher Selbrecht Ironveil]] — bloc: **Traditionalist**.  
+- **Representative:** [[High Watcher Selbrecht Ironveil|High Watcher Selbrecht Ironveil]] — bloc: **Traditionalist**.  
 - **Voting Tendencies:** Pro-order, pro-curfew, anti-smuggling; backs Tyr on sedition cases, tempers Torm’s zeal with procedure.  
 - **Stance on Industry:** Accepts Hammergate foundries if patrol integrity and worker safety are maintained; opposes unsupervised rail spurs beneath the **[[Cities/Spire|Spire]]**.
 
@@ -65,8 +65,3 @@ Lawful, tireless guardian of the innocent and the dutiful. Helm’s faithful are
 - When you need a neutral, law-driven voice, Selbrecht is the **calm, implacable** anchor.
 
 ---
-
-### Cross-Links
-- City: [[Cities/Respite|Respite]], [[Cities/Respite_Riverfront|River Aurelion Front]], [[Cities/Respite_Crown_of_Faith|Crown of Faith]]  
-- Factions: [[Factions/Conclave of Faiths|Conclave of Faiths]], [[The Sanctified Guard|Sanctified Guard]]  
-- NPCs: [[NPCs/Conclave/Helm_Selbrecht|High Watcher Selbrecht Ironveil]], [[NPCs/Conclave/Tyr_Jorven|Justiciar Jorven Harth]], [[NPCs/Conclave/Torm_Ydris|Marshal Ydris Cindral]]

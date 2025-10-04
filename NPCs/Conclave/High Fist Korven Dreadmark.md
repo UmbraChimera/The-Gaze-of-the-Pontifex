@@ -25,8 +25,8 @@ Voice like a blade scraping stone. Rarely speaks without commanding someone.
 - Keep Reformers in check.
 
 ### Relationships
-- Manipulates the [[The Sanctified Guard|Sanctified Guard]].
-- Disliked by [[NPCs/Conclave/Yondalla_Ysella|Ysella]].
+- Manipulates the [[Sanctified Guard|Sanctified Guard]].
+- Disliked by [[High Matron Ysella Bramblebrook|Ysella]].
 
 ### Secrets
 - Secretly blackmails several Guard captains and funds the Lantern Syndicate.

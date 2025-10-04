@@ -12,7 +12,7 @@ In **Respite**, her clergy run pilgrim shelters and orphanages, acting as the mo
 - **Domains:** Life, Protection  
 - **Symbol:** Cornucopia  
 - **Colors:** Green, gold, and brown  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Yondalla_Ysella|High Matron Ysella Bramblebrook]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[High Matron Ysella Bramblebrook|High Matron Ysella Bramblebrook]]  
 - **Primary Order:** The Hearthguard  
 
 > **Public Sense (Respite):** “Yondalla keeps the fire lit for all.”  
@@ -33,7 +33,7 @@ Her followers are adored for kindness and practicality; even the Pontifex cannot
 - **Structure:** Matriarchal councils running city shelters.  
 - **Duties:** Oversee the Halls of Relief and pilgrim welfare.  
 - **Uniform Cue:** Modest brown robes with golden trim and cornucopia brooches.  
-- **Allies & Friction:** Strong bond with [[NPCs/Conclave/Chauntea_Alliera|Chauntea]]; distrusts [[NPCs/Conclave/Bane_Korven|Bane]].  
+- **Allies & Friction:** Strong bond with [[Grainmother Alliera|Chauntea]]; distrusts [[High Fist Korven Dreadmark|Bane]].  
 
 ---
 
@@ -52,7 +52,7 @@ Her followers are adored for kindness and practicality; even the Pontifex cannot
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Yondalla_Ysella|Ysella Bramblebrook]] — Bloc: Reformer.  
+- **Representative:** [[High Matron Ysella Bramblebrook|High Matron Ysella Bramblebrook]] — Bloc: Reformer.  
 - **Voting Tendencies:** Votes for compassion and aid measures.  
 - **Stance on Industry:** Neutral; values fair wages and worker safety.  
 

@@ -25,8 +25,8 @@ Boisterous voice, greets everyone with a firm handshake and direct eye contact.
 - Promote alliance between Helmites and Tormites.
 
 ### Relationships
-- Respects [[NPCs/Conclave/Corellon_Thalanil|Thalanil]] but dislikes his elitism.
-- Friend to [[NPCs/Conclave/Helm_Selbrecht|Selbrecht Ironveil]].
+- Respects [[Coronal Thalanil Aurelion|Thalanil]] but dislikes his elitism.
+- Friend to [[High Watcher Selbrecht Ironveil|High Watcher Selbrecht Ironveil]].
 
 ### Secrets
 - Believes he once received a personal vision from [[Deities/Torm|Torm]], but fears it was mere exhaustion.

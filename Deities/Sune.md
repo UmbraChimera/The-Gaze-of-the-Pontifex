@@ -12,7 +12,7 @@ In **Respite**, her clergy preside over art, fashion, and marriage—and wield i
 - **Domains:** Life, Light  
 - **Symbol:** Red-haired woman’s face or rose  
 - **Colors:** Red, pink, and gold  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Sune_Selarra|High Radiance Selarra Flamehair]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[High Radiance Selarra Flamehair|High Radiance Selarra Flamehair]]  
 - **Primary Order:** The Roseguard  
 
 > **Public Sense (Respite):** “Love is beauty; beauty is truth.”  
@@ -33,7 +33,7 @@ Her clergy are adored by the populace but derided by Traditionalists as frivolou
 - **Structure:** Loose; guided by emotional instinct.  
 - **Duties:** Bless marriages, curate art festivals, and serve as cultural diplomats.  
 - **Uniform Cue:** Bright silks, perfumed rose motifs; left sleeve adorned with painted flames or petals.  
-- **Allies & Friction:** Allies with [[NPCs/Conclave/Lathander_Serenya|Serenya]]; disdained by [[NPCs/Conclave/Tyr_Jorven|Tyr]].  
+- **Allies & Friction:** Allies with [[Dawnlady Serenya Vaelith|Serenya]]; disdained by [[Justiciar Jorven Harth|Tyr]].  
 
 ---
 
@@ -52,7 +52,7 @@ Her clergy are adored by the populace but derided by Traditionalists as frivolou
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Sune_Selarra|Selarra Flamehair]] — Bloc: Reformer.  
+- **Representative:** [[High Radiance Selarra Flamehair|High Radiance Selarra Flamehair]] — Bloc: Reformer.  
 - **Voting Tendencies:** Follows Reformers, swayed by charisma and appeal.  
 - **Stance on Industry:** Opposes anything that uglifies the city; sponsors beautification projects.  
 

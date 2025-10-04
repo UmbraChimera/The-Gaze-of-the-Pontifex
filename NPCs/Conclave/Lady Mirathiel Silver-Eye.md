@@ -27,8 +27,8 @@ Speaks softly, eyes unfocused. Uses metaphors about tides and stars.
 - Prevent fanaticism within the Conclave.
 
 ### Relationships
-- Loyal to [[NPCs/Conclave/Lathander_Serenya|Serenya]].
-- Has cryptic respect for [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
+- Loyal to [[Dawnlady Serenya Vaelith|Serenya]].
+- Has cryptic respect for [[Coronal Thalanil Aurelion|Thalanil]].
 
 ### Secrets
 - Her prophecies sometimes include imagery of black spirals she cannot interpret.

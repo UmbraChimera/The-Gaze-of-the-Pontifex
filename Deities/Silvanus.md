@@ -12,7 +12,7 @@ In **Respite**, Silvanus’s druids guard the gardens and riverbanks, maintainin
 - **Domains:** Nature  
 - **Symbol:** Oak leaf  
 - **Colors:** Green, brown, gold  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Silvanus_Tharil|Warden Tharil Mossheart]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Warden Tharil Mossheart|Warden Tharil Mossheart]]  
 - **Primary Order:** The Verdant Wardens  
 
 > **Public Sense (Respite):** “The green still breathes beneath the stone.”  
@@ -33,7 +33,7 @@ Citizens respect Silvanites for serenity and practicality; Hammergate’s worker
 - **Structure:** Loose circle led by elder druids.  
 - **Duties:** Maintain gardens, purify water, oversee river harvests.  
 - **Uniform Cue:** Bark-hued robes; vine cords wrapped on the left arm.  
-- **Allies & Friction:** Allies with [[NPCs/Conclave/Chauntea_Alliera|Chauntea]]; opposes [[NPCs/Conclave/Moradin_Baelrik|Moradin]]’s industrial excess.  
+- **Allies & Friction:** Allies with [[Grainmother Alliera|Chauntea]]; opposes [[Forgefather Baelrik Anvilthane|Moradin]]’s industrial excess.  
 
 ---
 
@@ -52,7 +52,7 @@ Citizens respect Silvanites for serenity and practicality; Hammergate’s worker
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Silvanus_Tharil|Tharil Mossheart]] — Bloc: Neutral.  
+- **Representative:** [[Warden Tharil Mossheart|Warden Tharil Mossheart]] — Bloc: Neutral.  
 - **Voting Tendencies:** Supports moderation; rarely votes first.  
 - **Stance on Industry:** Opposes deforestation and smoke; demands replanting oaths.  
 

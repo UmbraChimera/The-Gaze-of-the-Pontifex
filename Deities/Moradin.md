@@ -12,7 +12,7 @@ In **Respite**, Moradin’s forge-priests dominate the Hammergate district, over
 - **Domains:** Forge, Knowledge  
 - **Symbol:** Hammer and anvil  
 - **Colors:** Red, gray, gold  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Moradin_Baelrik|Forgefather Baelrik Anvilthane]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Forgefather Baelrik Anvilthane|Forgefather Baelrik Anvilthane]]  
 - **Primary Order:** The Forgeguard  
 
 > **Public Sense (Respite):** “When the forges burn, the city breathes.”  
@@ -33,7 +33,7 @@ Citizens respect the dwarves’ work ethic but fear the smoke and clamor that co
 - **Structure:** Guild-based, master-apprentice lineage.  
 - **Duties:** Oversee smithing, rail forging, and industrial safety.  
 - **Uniform Cue:** Blackened steel vambraces etched with hammer sigils.  
-- **Allies & Friction:** Works with [[NPCs/Conclave/Torm_Ydris|Torm’s Loyal Furies]]; disputes with [[NPCs/Conclave/Chauntea_Alliera|Chauntea]] over pollution.  
+- **Allies & Friction:** Works with [[Loyal Fury Marshal Ydris Cindral|Torm’s Loyal Furies]]; disputes with [[Grainmother Alliera|Chauntea]] over pollution.  
 
 ---
 
@@ -52,7 +52,7 @@ Citizens respect the dwarves’ work ethic but fear the smoke and clamor that co
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Moradin_Baelrik|Baelrik Anvilthane]] — Bloc: Traditionalist.  
+- **Representative:** [[Forgefather Baelrik Anvilthane|Forgefather Baelrik Anvilthane]] — Bloc: Traditionalist.  
 - **Voting Tendencies:** Conservative, prioritizes craftsmanship and stability.  
 - **Stance on Industry:** Supports controlled progress; warns against untested machinery.  
 

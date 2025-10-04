@@ -25,8 +25,8 @@ Speaks with calm authority, rarely raising his voice. Occasionally stares into t
 - Investigate anomalies beneath the Spire.
 
 ### Relationships
-- Advisor to [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
-- Quietly aids [[NPCs/Conclave/Mystra_Pelbranth|Pelbranth]]’s investigations.
+- Advisor to [[Coronal Thalanil Aurelion|Thalanil]].
+- Quietly aids [[Magister Pelbranth Mystralis|Pelbranth]]’s investigations.
 
 ### Secrets
 - Knows that something 'alive' stirs deep under the Spire but refuses to act without proof.

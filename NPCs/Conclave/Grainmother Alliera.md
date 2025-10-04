@@ -21,12 +21,12 @@ Soft-spoken, hums lullabies while thinking. Always carries a small loaf of bless
 
 ### Goals
 - Feed and shelter the poor.
-- Support [[NPCs/Conclave/Lathander_Serenya|Serenya]]’s reforms.
+- Support [[Dawnlady Serenya Vaelith|Serenya]]’s reforms.
 - Ensure labor guilds remain loyal to the people.
 
 ### Relationships
-- Deep friendship with [[NPCs/Conclave/Yondalla_Ysella|Ysella Bramblebrook]].
-- Warily respected by [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
+- Deep friendship with [[High Matron Ysella Bramblebrook|High Matron Ysella Bramblebrook]].
+- Warily respected by [[Coronal Thalanil Aurelion|Thalanil]].
 
 ### Secrets
 - Her 'Blessed Loaves' are marked with faint spiral sigils—she believes them decorative, unaware of their ritual significance.

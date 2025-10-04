@@ -22,12 +22,12 @@ Speaks in clipped, formal tones. Keeps his hands clasped behind his back during 
 ### Goals
 - Uphold divine law above politics.
 - Maintain the Conclave’s moral integrity.
-- Support [[NPCs/Conclave/Corellon_Thalanil|Thalanil]] against Serenya’s reforms.
+- Support [[Coronal Thalanil Aurelion|Thalanil]] against Serenya’s reforms.
 
 ### Relationships
-- Close ally of [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
-- Often at odds with [[NPCs/Conclave/Lathander_Serenya|Serenya]].
-- Works closely with [[NPCs/Conclave/Helm_Selbrecht|Selbrecht Ironveil]].
+- Close ally of [[Coronal Thalanil Aurelion|Thalanil]].
+- Often at odds with [[Dawnlady Serenya Vaelith|Serenya]].
+- Works closely with [[High Watcher Selbrecht Ironveil|High Watcher Selbrecht Ironveil]].
 
 ### Secrets
 - Keeps evidence of corruption among Conclave aides but withholds it to maintain stability.

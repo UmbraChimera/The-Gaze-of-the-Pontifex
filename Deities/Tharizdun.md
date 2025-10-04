@@ -13,7 +13,7 @@ In **Respite**, his shadow moves through acts of charity and reform.
 - **Domains:** Trickery, Death  
 - **Symbol:** Black spiral  
 - **Colors:** Violet-black and gray  
-- **Worship:** Suppressed and forgotten—save by [[Serenya Vaelith (True)]].  
+- **Worship:** Suppressed and forgotten—save by [[NPCs/Revelry/Serenya Vaelith]].  
 
 > **Public Sense (Respite):** None. Tharizdun is erased from every archive, his existence denied by all official temples.
 
@@ -33,7 +33,7 @@ In **Respite**, his shadow moves through acts of charity and reform.
 - **Structure:** Fragmented cult hidden within legitimate charities.  
 - **Duties:** Construct sigils and geometric patterns across the city to unseal the divine lock.  
 - **Uniform Cue:** None publicly; hidden spirals embroidered inside robes of [[Lathander]]’s clergy.  
-- **Known Agents:** [[NPCs/Conclave/Serenya_Revealed|Serenya Vaelith]], the Chained Prophet.  
+- **Known Agents:** [[NPCs/Revelry/Serenya Vaelith]], the Chained Prophet.  
 
 ---
 
@@ -51,7 +51,7 @@ In **Respite**, his shadow moves through acts of charity and reform.
 ---
 
 ## Relationships & Politics
-- No official seat on the Conclave; infiltrates through [[NPCs/Conclave/Lathander_Serenya|Serenya Vaelith]].  
+- No official seat on the Conclave; infiltrates through [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]].  
 - His unseen influence bends Reformers toward entropy disguised as mercy.  
 
 ---

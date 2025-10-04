@@ -26,7 +26,7 @@ Soft voice, constant note-taking. Occasionally mutters corrections mid-debate.
 
 ### Relationships
 - Neutral mediator between factions.
-- Friend of [[NPCs/Conclave/Mystra_Pelbranth|Pelbranth]].
+- Friend of [[Magister Pelbranth Mystralis|Pelbranth]].
 
 ### Secrets
 - Keeps hidden records detailing inconsistencies in the city’s founding myth.

@@ -30,8 +30,8 @@ Soft-spoken, almost tender. Speaks of annihilation as one might speak of mercy.
 - Merge divine and mortal realms through Tharizdun’s avatar.  
 
 ### Relationships
-- Former ally to [[NPCs/Conclave/Corellon_Thalanil|Coronal Thalanil Aurelion]].  
-- Manipulates [[NPCs/Conclave/Chauntea_Alliera|Grainmother Alliera]] and the faithful through her charities.  
+- Former ally to [[Coronal Thalanil Aurelion|Coronal Thalanil Aurelion]].  
+- Manipulates [[Grainmother Alliera|Grainmother Alliera]] and the faithful through her charities.  
 
 ### Secrets
 - Knows the true purpose of the [[Cities/Spire|Spire]].  

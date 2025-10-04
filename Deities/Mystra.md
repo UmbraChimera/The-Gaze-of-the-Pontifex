@@ -12,7 +12,7 @@ In **Respite**, Mystra’s clergy maintain magical order and prevent misuse of d
 - **Domains:** Arcana, Knowledge  
 - **Symbol:** Circle of seven stars surrounding a rising red mist  
 - **Colors:** Deep blue, silver, and red  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Mystra_Pelbranth|Magister Pelbranth Mystralis]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Magister Pelbranth Mystralis|Magister Pelbranth Mystralis]]  
 - **Primary Order:** The Spellwardens  
 
 > **Public Sense (Respite):** “Mystra’s hand steadies the Weave.”  
@@ -33,7 +33,7 @@ Her followers are respected but feared; their neutrality is power.
 - **Structure:** Strict scholarly hierarchy.  
 - **Duties:** Maintain wards on the Spire, regulate spellcasting within city limits, teach magical theory.  
 - **Uniform Cue:** Blue and silver robes embroidered with glowing sigils.  
-- **Allies & Friction:** Neutral mediator between [[NPCs/Conclave/Corellon_Thalanil|Corellon]] and [[NPCs/Conclave/Lathander_Serenya|Serenya]].  
+- **Allies & Friction:** Neutral mediator between [[Coronal Thalanil Aurelion|Corellon]] and [[Dawnlady Serenya Vaelith|Serenya]].  
 
 ---
 
@@ -52,7 +52,7 @@ Her followers are respected but feared; their neutrality is power.
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Mystra_Pelbranth|Magister Pelbranth Mystralis]] — Bloc: Neutral.  
+- **Representative:** [[Magister Pelbranth Mystralis|Magister Pelbranth Mystralis]] — Bloc: Neutral.  
 - **Voting Tendencies:** Seeks balance; rarely swayed by emotion.  
 - **Stance on Industry:** Supports innovation if it doesn’t endanger the Weave.  
 

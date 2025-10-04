@@ -12,7 +12,7 @@ In **Respite**, Oghma’s clergy record every decree, invention, and law passed 
 - **Domains:** Knowledge  
 - **Symbol:** Blank scroll  
 - **Colors:** White, blue, and bronze  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Oghma_Daelen|Loremaster Daelen Quillborn]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Loremaster Daelen Quillborn|Loremaster Daelen Quillborn]]  
 - **Primary Order:** The Loreguard  
 
 > **Public Sense (Respite):** “What Oghma writes, the world remembers.”  
@@ -33,7 +33,7 @@ Citizens regard the Loreguard as impartial scribes; politicians see them as dang
 - **Structure:** Monastic archives led by a council of senior scribes.  
 - **Duties:** Preserve Conclave minutes, catalog relics, and oversee education in the Loreward Colleges.  
 - **Uniform Cue:** Blue-trimmed robes with blank scroll pins; ink-stained left sleeves.  
-- **Allies & Friction:** Collaborates with [[NPCs/Conclave/Mystra_Pelbranth|Mystra]]; mistrusted by [[NPCs/Conclave/Bane_Korven|Bane]] for public transparency.  
+- **Allies & Friction:** Collaborates with [[Magister Pelbranth Mystralis|Mystra]]; mistrusted by [[High Fist Korven Dreadmark|Bane]] for public transparency.  
 
 ---
 
@@ -52,7 +52,7 @@ Citizens regard the Loreguard as impartial scribes; politicians see them as dang
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Oghma_Daelen|Daelen Quillborn]] — Bloc: Neutral.  
+- **Representative:** [[Loremaster Daelen Quillborn|Loremaster Daelen Quillborn]] — Bloc: Neutral.  
 - **Voting Tendencies:** Prioritizes records over rhetoric; votes for transparency.  
 - **Stance on Industry:** Supports education, opposes secrecy in invention.  
 

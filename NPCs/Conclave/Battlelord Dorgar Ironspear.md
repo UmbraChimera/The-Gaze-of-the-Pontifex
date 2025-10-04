@@ -24,8 +24,8 @@ Laughs loudly, slaps shoulders when speaking, quick to challenge others to frien
 - Ensure the Sanctified Guard never grows complacent.
 
 ### Relationships
-- Close to [[NPCs/Conclave/Torm_Ydris|Ydris Cindral]].
-- Openly clashes with [[NPCs/Conclave/Sune_Selarra|Selarra Flamehair]].
+- Close to [[Loyal Fury Marshal Ydris Cindral|Loyal Fury Marshal Ydris Cindral]].
+- Openly clashes with [[High Radiance Selarra Flamehair|High Radiance Selarra Flamehair]].
 
 ### Secrets
 - Keeps a bloodstained axe as a relic of his first battle within the Spire’s shadow.

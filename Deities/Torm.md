@@ -11,7 +11,7 @@ Patron of duty, courage, and self-sacrifice. In **Respite**, his church supplies
 - **Domains:** War, Order  
 - **Symbol:** White right gauntlet  
 - **Colors:** White and gold  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Torm_Ydris|Loyal Fury Marshal Ydris Cindral]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Loyal Fury Marshal Ydris Cindral|Loyal Fury Marshal Ydris Cindral]]  
 - **Primary Order:** The Loyal Furies  
 
 > **Public Sense (Respite):** “A Tormite never breaks the line.”  
@@ -32,7 +32,7 @@ Respite’s citizens see them as soldiers of faith—dutiful and honorable, if o
 - **Structure:** Military, organized in companies.  
 - **Duties:** Train guards, protect embassies, and enforce oaths.  
 - **Uniform Cue:** Armored gauntlet embossed with a white handprint on the left pauldron.  
-- **Allies & Friction:** Partners with [[NPCs/Conclave/Helm_Selbrecht|Helm’s Watchers]]; occasionally conflict with [[NPCs/Conclave/Corellon_Thalanil|Thalanil]]’s aloof authority.  
+- **Allies & Friction:** Partners with [[High Watcher Selbrecht Ironveil|Helm’s Watchers]]; occasionally conflict with [[Coronal Thalanil Aurelion|Thalanil]]’s aloof authority.  
 
 ---
 
@@ -50,7 +50,7 @@ Respite’s citizens see them as soldiers of faith—dutiful and honorable, if o
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Torm_Ydris|Ydris Cindral]] — Bloc: Traditionalist.  
+- **Representative:** [[Loyal Fury Marshal Ydris Cindral|Loyal Fury Marshal Ydris Cindral]] — Bloc: Traditionalist.  
 - **Voting Tendencies:** Supports discipline and Pontifex authority.  
 - **Stance on Industry:** Endorses construction for civic defense; dislikes civilian rail expansion.  
 

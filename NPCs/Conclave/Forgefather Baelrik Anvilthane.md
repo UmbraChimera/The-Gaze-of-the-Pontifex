@@ -25,8 +25,8 @@ Deep gravelly voice. Smells of smoke and oil. Pauses often to think before speak
 - Prevent overreliance on rail technology.
 
 ### Relationships
-- Ally of [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].
-- Occasional mentor to [[NPCs/Conclave/Lathander_Serenya|Serenya]].
+- Ally of [[Coronal Thalanil Aurelion|Thalanil]].
+- Occasional mentor to [[Dawnlady Serenya Vaelith|Serenya]].
 
 ### Secrets
 - Fears the heat of his forges resonates oddly beneath the city’s foundations.

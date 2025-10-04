@@ -26,8 +26,8 @@ Gentle tone, perfect poise, hands always open or reaching toward others. Never s
 
 ### Relationships
 - Loved by [[Alaric Dathen|Sir Alaric Dathen]].  
-- Opposed by [[NPCs/Conclave/Corellon_Thalanil|Coronal Thalanil Aurelion]].  
-- Supported by [[NPCs/Conclave/Chauntea_Alliera|Grainmother Alliera]] and [[Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]].  
+- Opposed by [[Coronal Thalanil Aurelion|Coronal Thalanil Aurelion]].  
+- Supported by [[Grainmother Alliera|Grainmother Alliera]] and [[Lady Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]].  
 
 ### Secrets
 - Secretly the high priestess of [[Deities/Tharizdun|Tharizdun]].  

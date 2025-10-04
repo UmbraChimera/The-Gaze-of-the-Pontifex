@@ -5,7 +5,7 @@ tags: [Conclave, Ally, Tragic]
 ---
 
 ## Sir Alaric Dathen — The Hopeful Marshal
-**Affiliation:** [[NPCs/Conclave/Lathander_Serenya|Dawnlady Serenya Vaelith]]  
+**Affiliation:** [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]]  
 **Race:** Human  
 **Alignment:** Lawful Good  
 **Title:** Captain of the People’s Guard (Ceremonial)  
@@ -25,9 +25,9 @@ Earnest tone, straightforward speech. Touches his holy symbol when nervous.
 - Bring peace to the streets through compassion, not fear.  
 
 ### Relationships
-- Idolizes [[NPCs/Conclave/Lathander_Serenya|Serenya]].  
-- Respected by the [[The Sanctified Guard|Sanctified Guard]].  
-- Cordially tolerated by [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].  
+- Idolizes [[Dawnlady Serenya Vaelith|Serenya]].  
+- Respected by the [[Sanctified Guard|Sanctified Guard]].  
+- Cordially tolerated by [[Coronal Thalanil Aurelion|Thalanil]].  
 
 ### Secrets
 - Unaware his faith in Serenya will lead to his death.  

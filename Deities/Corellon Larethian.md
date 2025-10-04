@@ -12,7 +12,7 @@ In **Respite**, Corellon’s faith represents beauty made divine and the perfect
 - **Domains:** Arcana, Light  
 - **Symbol:** Silver crescent moon  
 - **Colors:** Silver, blue, and white  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Corellon_Thalanil|Coronal Thalanil Aurelion]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Coronal Thalanil Aurelion|Coronal Thalanil Aurelion]]  
 - **Primary Order:** The High Artisans and the Arcane Choir  
 
 > **Public Sense (Respite):** “All things of beauty owe Corellon their first breath.”  
@@ -33,7 +33,7 @@ His clergy are admired as cultured, noble, and insufferably proud.
 - **Structure:** Rigid, hierarchical, based on artistic mastery.  
 - **Duties:** Maintain the Spire’s artistic embellishments, preserve elven archives, and oversee magical wards.  
 - **Uniform Cue:** Flowing silver-trimmed robes; sleeves and pauldrons etched with constellations.  
-- **Allies & Friction:** Works with [[NPCs/Conclave/Mystra_Pelbranth|Mystra’s Magisters]] but often dismisses Reformers as “unrefined.”
+- **Allies & Friction:** Works with [[Magister Pelbranth Mystralis|Mystra’s Magisters]] but often dismisses Reformers as “unrefined.”
 
 ---
 
@@ -52,7 +52,7 @@ His clergy are admired as cultured, noble, and insufferably proud.
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Corellon_Thalanil|Coronal Thalanil Aurelion]] — Bloc: Traditionalist.  
+- **Representative:** [[Coronal Thalanil Aurelion|Coronal Thalanil Aurelion]] — Bloc: Traditionalist.  
 - **Voting Tendencies:** Conservative, anti-industrial.  
 - **Stance on Industry:** Opposes Hammergate’s growth; considers steam and smoke profane.  
 

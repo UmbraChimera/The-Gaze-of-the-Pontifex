@@ -6,13 +6,13 @@ type: city
 # 🏰 Respite, the Holy City-State
 **Motto:** *“All faiths rise beneath the [[Spire]].”*  
 **Population:** ~500,000 in walls, ~1.5M in outer lands.  
-**Government:** Theocratic conclave led by the [[Pontifex of Respite]].  
-**Current Pontifex:** [[Coronal Thalanil Aurelion]].  
+**Government:** Theocratic conclave led by the [[Factions/Pontifex of Respite|Pontifex of Respite]]
+**Current Pontifex:** [[Coronal Thalanil Aurelion]]
 
 ---
 
 ## 📍 Location
-On the north shore of the Dragon Reach, between [[Procampur]] and [[Tsurlagol]]. The [[River Aurelion]] flows through the city.  
+On the north shore of the Dragon Reach, between Procampur and Tsurlagol. The River Aurelion flows through the city.  
 
 ---
 

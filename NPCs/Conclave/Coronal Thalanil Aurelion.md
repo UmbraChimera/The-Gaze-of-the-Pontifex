@@ -29,9 +29,9 @@ Speaks slowly, with deliberate precision. Rarely smiles; when angered, his eyes 
 - Groom a loyal successor who will maintain tradition.
 
 ### Relationships
-- Rival of [[NPCs/Conclave/Lathander_Serenya|Dawnlady Serenya Vaelith]].  
-- Leans on [[NPCs/Conclave/Tyr_Jorven|Justiciar Jorven Harth]] for legal backing.  
-- Distrusts [[NPCs/Conclave/Mystra_Pelbranth|Magister Pelbranth]]'s neutrality.  
+- Rival of [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]].  
+- Leans on [[Justiciar Jorven Harth|Justiciar Jorven Harth]] for legal backing.  
+- Distrusts [[Magister Pelbranth Mystralis|Magister Pelbranth]]'s neutrality.  
 
 ### Secrets
 - Uses subtle enchantments to sway Conclave votes.  

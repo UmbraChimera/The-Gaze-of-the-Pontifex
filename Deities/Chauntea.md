@@ -12,7 +12,7 @@ In **Respite**, Chauntea’s clergy run soup kitchens, granaries, and farmlands 
 - **Domains:** Life, Nature  
 - **Symbol:** Sheaf of wheat or blooming rose on green field  
 - **Colors:** Green, gold, brown  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Chauntea_Alliera|Grainmother Alliera of the Fields]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Grainmother Alliera|Grainmother Alliera]]  
 - **Primary Order:** The Grainwardens  
 
 > **Public Sense (Respite):** “Where there’s bread, there’s Chauntea.”  
@@ -33,7 +33,7 @@ Beloved by commoners and farmers alike, her clergy are the most trusted hands in
 - **Structure:** Cooperative—decisions made by harvest councils.  
 - **Duties:** Manage city food supply, bless bakeries, and oversee pilgrim farms.  
 - **Uniform Cue:** Leather sleeves decorated with woven vine motifs; faint scent of grain and earth.  
-- **Allies & Friction:** Close with [[NPCs/Conclave/Yondalla_Ysella|Yondalla’s]] halflings; wary of [[NPCs/Conclave/Moradin_Baelrik|Moradin’s]] industrial encroachment.  
+- **Allies & Friction:** Close with [[High Matron Ysella Bramblebrook|Yondalla’s]] halflings; wary of [[Forgefather Baelrik Anvilthane|Moradin’s]] industrial encroachment.  
 
 ---
 
@@ -52,7 +52,7 @@ Beloved by commoners and farmers alike, her clergy are the most trusted hands in
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Chauntea_Alliera|Grainmother Alliera]] — Bloc: Reformer.  
+- **Representative:** [[Grainmother Alliera|Grainmother Alliera]] — Bloc: Reformer.  
 - **Voting Tendencies:** Progressive; supports food access and workers’ rights.  
 - **Stance on Industry:** Opposes expansion that poisons soil or river.  
 

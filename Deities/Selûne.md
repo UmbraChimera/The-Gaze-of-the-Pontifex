@@ -12,7 +12,7 @@ In **Respite**, Selûne’s faithful maintain night shrines and offer solace to 
 - **Domains:** Knowledge, Life  
 - **Symbol:** Pair of eyes surrounded by seven stars  
 - **Colors:** Silver, pale blue, white  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Lady Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]]  
 - **Primary Order:** The Silver Shields  
 
 > **Public Sense (Respite):** “The Moonmaiden guides lost hearts.”  
@@ -33,7 +33,7 @@ Her temples glow softly at night; her followers are seen as kind but otherworldl
 - **Structure:** Loose order; visions guide decisions.  
 - **Duties:** Maintain waylamps, healers of the night, mediators for dream disputes.  
 - **Uniform Cue:** Flowing moon-silver robes; soft lantern carried at all times.  
-- **Allies & Friction:** Supports [[NPCs/Conclave/Lathander_Serenya|Serenya]]’s reforms; occasionally counters [[NPCs/Conclave/Corellon_Thalanil|Thalanil]]’s rigidity.  
+- **Allies & Friction:** Supports [[Dawnlady Serenya Vaelith|Serenya]]’s reforms; occasionally counters [[Coronal Thalanil Aurelion|Thalanil]]’s rigidity.  
 
 ---
 
@@ -52,7 +52,7 @@ Her temples glow softly at night; her followers are seen as kind but otherworldl
 ---
 
 ## Relationships & Politics
-- **Representative:** [[Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]] — Bloc: Reformer.  
+- **Representative:** [[Lady Mirathiel Silver-Eye|Lady Mirathiel Silver-Eye]] — Bloc: Reformer.  
 - **Voting Tendencies:** Supports peace and reform; symbolic of emotional guidance.  
 - **Stance on Industry:** Opposes pollution; promotes beauty and balance.  
 

@@ -25,8 +25,8 @@ Speaks musically, laughs often, gestures dramatically.
 - Support Reformers through soft power.
 
 ### Relationships
-- Flirts with [[NPCs/Conclave/Torm_Ydris|Ydris Cindral]].
-- Allies with [[NPCs/Conclave/Lathander_Serenya|Serenya]].
+- Flirts with [[Loyal Fury Marshal Ydris Cindral|Loyal Fury Marshal Ydris Cindral]].
+- Allies with [[Dawnlady Serenya Vaelith|Serenya]].
 
 ### Secrets
 - Keeps a mirror blessed by [[Deities/Sune|Sune]] that sometimes reflects events not yet happened.

@@ -41,16 +41,16 @@ The Spire’s geometry anchors the planes, its base forming a vast, invisible si
 Even the gods erased the truth from their memories, leaving only instinct to “protect the Spire.”
 
 The rail lines and metallic inlays built centuries later trace those same sigil lines — unknowingly reforging the lock.  
-Now, [[NPCs/Conclave/Lathander_Serenya|Serenya Vaelith]]’s charities and construction projects slowly transform it into a ritual key to break that seal.
+Now, [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]]’s charities and construction projects slowly transform it into a ritual key to break that seal.
 
 ---
 
 ## Architecture & Mysteries
 - **The Base:** Surrounded by concentric plazas and holy gardens; pilgrims may touch the outer surface but cannot enter.  
-- **The Crown of Faith:** Inner sanctum reserved for the [[Factions/Pontifex of Respite|Pontifex of Respite]] and the [[Factions/Conclave_of_Faiths|Conclave]].  
+- **The Crown of Faith:** Inner sanctum reserved for the [[Factions/Pontifex of Respite|Pontifex of Respite]] and the [[Conclave of Faiths]].  
 - **The Choir Hall:** Chamber where voices echo infinitely — believed to harmonize divine resonance (actually a stabilizing node).  
 - **The Vein Lights:** Thin lines of blue light running through the stone; pulse in rhythm with mass prayers or storms.  
-- **The Depths:** Sub-levels sealed by divine wards, accessible only through hidden passages in the [[Cities/Respite_UnderSpire|Under-Spire & Old Works]].  
+- **The Depths:** Sub-levels sealed by divine wards, accessible only through hidden passages in the Under-Spire & Old Works.  
 
 Arcane study suggests the Spire is a *living focus*—a planar conduit rather than inert matter.
 
@@ -66,7 +66,7 @@ Arcane study suggests the Spire is a *living focus*—a planar conduit rather th
 
 ## The Spire’s Influence on the City
 - Serves as the city’s geographic and spiritual axis; all roads radiate from it.  
-- The [[Factions/Sanctified_Guard|Sanctified Guard]] patrols its plaza day and night.  
+- The [[Sanctified Guard]] patrols its plaza day and night.  
 - Its hum influences Respite’s weather and planar stability — arcane readings show micro-surges of positive energy during dawn bells.  
 - The Conclave’s chambers ring the Spire’s base; political power literally circles the divine lock.  
 

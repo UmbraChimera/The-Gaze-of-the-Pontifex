@@ -12,7 +12,7 @@ In **Respite**, his priests tend crypts beneath the Spire and ensure proper buri
 - **Domains:** Death, Order  
 - **Symbol:** Scales balanced on a skull  
 - **Colors:** Black, gray, and silver  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Kelemvor_Caleth|Gravewarden Caleth Veynar]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Gravewarden Caleth Veynar|Gravewarden Caleth Veynar]]  
 - **Primary Order:** The Gravewardens  
 
 > **Public Sense (Respite):** “All debts are paid in silence.”  
@@ -33,7 +33,7 @@ The Gravewardens are respected but rarely loved—necessary custodians of mortal
 - **Structure:** Orderly, with records for every burial.  
 - **Duties:** Conduct funerals, maintain necropolises, and investigate restless dead.  
 - **Uniform Cue:** Black robes trimmed in silver chains; left pauldron bears skeletal motif.  
-- **Allies & Friction:** Works with [[NPCs/Conclave/Mystra_Pelbranth|Mystra]]’s priests on arcane residue; mistrusts [[NPCs/Conclave/Sune_Selarra|Sune]]’s frivolity.  
+- **Allies & Friction:** Works with [[Magister Pelbranth Mystralis|Mystra]]’s priests on arcane residue; mistrusts [[High Radiance Selarra Flamehair|Sune]]’s frivolity.  
 
 ---
 
@@ -52,7 +52,7 @@ The Gravewardens are respected but rarely loved—necessary custodians of mortal
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Kelemvor_Caleth|Caleth Veynar]] — Bloc: Wildcard.  
+- **Representative:** [[Gravewarden Caleth Veynar|Gravewarden Caleth Veynar]] — Bloc: Wildcard.  
 - **Voting Tendencies:** Cautious; ensures balance between divine extremes.  
 - **Stance on Industry:** Neutral but vigilant—fears the rail tunnels disturb old graves.  
 

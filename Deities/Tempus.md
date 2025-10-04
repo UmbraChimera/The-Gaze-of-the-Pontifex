@@ -12,7 +12,7 @@ In **Respite**, his warriors form the backbone of the city’s defense and riot 
 - **Domains:** War  
 - **Symbol:** Flaming sword  
 - **Colors:** Crimson and black  
-- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[NPCs/Conclave/Tempus_Dorgar|Battlelord Dorgar Ironspear]]  
+- **Seat on the [[Factions/Conclave of Faiths|Conclave of Faiths]]:** [[Battlelord Dorgar Ironspear|Battlelord Dorgar Ironspear]]  
 - **Primary Order:** The Battleborn  
 
 > **Public Sense (Respite):** “Better the war in training than in blood.”  
@@ -33,7 +33,7 @@ The Battleborn are admired for their bravery and distrusted for their love of co
 - **Structure:** Military; ranks earned through duels and merit.  
 - **Duties:** Train soldiers, plan city defense, manage riot containment.  
 - **Uniform Cue:** Red cloaks trimmed in black; vambraces scarred by choice.  
-- **Allies & Friction:** Loyal to [[NPCs/Conclave/Torm_Ydris|Torm’s]] discipline; clashes with [[NPCs/Conclave/Sune_Selarra|Sune’s]] pacifist reforms.  
+- **Allies & Friction:** Loyal to [[Loyal Fury Marshal Ydris Cindral|Torm’s]] discipline; clashes with [[High Radiance Selarra Flamehair|Sune’s]] pacifist reforms.  
 
 ---
 
@@ -47,12 +47,12 @@ The Battleborn are admired for their bravery and distrusted for their love of co
 ## Temples & Sites in Respite
 - **Hall of the Crimson Sword:** Arena-temple for training and tournaments.  
 - **Defender’s Plaza:** Open-air court for duels and oaths.  
-- **Warden’s Bastion:** Garrison shared with the [[The Sanctified Guard]].  
+- **Warden’s Bastion:** Garrison shared with the [[Sanctified Guard]].  
 
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Tempus_Dorgar|Battlelord Dorgar Ironspear]] — Bloc: Wildcard.  
+- **Representative:** [[Battlelord Dorgar Ironspear|Battlelord Dorgar Ironspear]] — Bloc: Wildcard.  
 - **Voting Tendencies:** Supports whichever side promises readiness and strength.  
 - **Stance on Industry:** Favors weapons innovation but rejects automation.  
 

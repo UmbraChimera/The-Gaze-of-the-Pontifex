@@ -5,7 +5,7 @@ tags: [deity, Conclave, Lathander, Respite]
 ---
 
 # ☀️ Lathander — The Morninglord
-God of renewal, creativity, and the dawn. In **Respite**, his faith is the banner of reform and compassion, championed by the beloved half-elf [[NPCs/Conclave/Lathander_Serenya|Dawnlady Serenya Vaelith]].
+God of renewal, creativity, and the dawn. In **Respite**, his faith is the banner of reform and compassion, championed by the beloved half-elf [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]].
 
 - **Alignment:** Neutral Good  
 - **Domains:** Life, Light  
@@ -32,7 +32,7 @@ Lathanderites are praised as healers and social reformers but criticized for rec
 - **Structure:** Decentralized; focused on outreach.  
 - **Duties:** Operate the Halls of Relief, orphanages, and hospitals.  
 - **Uniform Cue:** Gold-trimmed white robes with a pink-rose mantle; left arm bare or wrapped in silk bands to “welcome the dawn.”  
-- **Allies & Friction:** Works with [[NPCs/Conclave/Chauntea_Alliera|Chauntea’s]] clergy; opposed by [[NPCs/Conclave/Corellon_Thalanil|Thalanil]].  
+- **Allies & Friction:** Works with [[Grainmother Alliera|Chauntea’s]] clergy; opposed by [[Coronal Thalanil Aurelion|Thalanil]].  
 
 ---
 
@@ -51,7 +51,7 @@ Lathanderites are praised as healers and social reformers but criticized for rec
 ---
 
 ## Relationships & Politics
-- **Representative:** [[NPCs/Conclave/Lathander_Serenya|Serenya Vaelith]] — Bloc: Reformer.  
+- **Representative:** [[Dawnlady Serenya Vaelith|Dawnlady Serenya Vaelith]] — Bloc: Reformer.  
 - **Voting Tendencies:** Progressive; supports democratizing temple authority.  
 - **Stance on Industry:** Supports modernization as a tool of mercy and connection.  
 

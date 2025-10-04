@@ -25,8 +25,8 @@ Speaks slowly, uses natural metaphors. Keeps a crow familiar on his shoulder.
 - Resist pollution from Hammergate.
 
 ### Relationships
-- Supports [[NPCs/Conclave/Chauntea_Alliera|Alliera]]’s reforms.
-- Opposes [[NPCs/Conclave/Moradin_Baelrik|Baelrik]]’s expansionism.
+- Supports [[Grainmother Alliera|Alliera]]’s reforms.
+- Opposes [[Forgefather Baelrik Anvilthane|Baelrik]]’s expansionism.
 
 ### Secrets
 - Feels the plants near the Spire 'listen' when no one speaks.
