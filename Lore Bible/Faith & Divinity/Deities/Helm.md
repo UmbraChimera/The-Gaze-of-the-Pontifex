@@ -55,7 +55,7 @@ Lawful, tireless guardian of the innocent and the dutiful. Helm’s faithful are
 ## Relationships & Politics (Conclave)
 - **Representative:** [[High Watcher Selbrecht Ironveil|High Watcher Selbrecht Ironveil]] — bloc: **Traditionalist**.  
 - **Voting Tendencies:** Pro-order, pro-curfew, anti-smuggling; backs Tyr on sedition cases, tempers Torm’s zeal with procedure.  
-- **Stance on Industry:** Accepts Hammergate foundries if patrol integrity and worker safety are maintained; opposes unsupervised rail spurs beneath the **[[The Spire|The Spire]]**.
+- **Stance on Industry:** Accepts Hammergate foundries if patrol integrity and worker safety are maintained; opposes unsupervised rail spurs beneath the **[[Spire|Spire]]**.
 
 ---
 

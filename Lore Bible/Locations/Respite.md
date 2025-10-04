@@ -4,7 +4,7 @@ type: city
 ---
 
 # 🏰 Respite, the Holy City-State
-**Motto:** *“All faiths rise beneath the [[The Spire]].”*  
+**Motto:** *“All faiths rise beneath the [[Spire]].”*  
 **Population:** ~500,000 in walls, ~1.5M in outer lands.  
 **Government:** Theocratic conclave led by the [[Pontifex of Respite|Pontifex of Respite]]
 **Current Pontifex:** [[Coronal Thalanil Aurelion]]
@@ -20,7 +20,7 @@ On the north shore of the Dragon Reach, between Procampur and Tsurlagol. The Riv
 - **Pilgrims’ Quarter** — hostels, shrines, and scams.  
 - **Hammergate** — industry, rails, ritual lattice.  
 - **Garden of the Gods** — seat of the [[Conclave of Faiths]].  
-- **Crown of Faith** — inner sanctum, palace, and [[The Spire]].  
+- **Crown of Faith** — inner sanctum, palace, and [[Spire]].  
 
 ---
 

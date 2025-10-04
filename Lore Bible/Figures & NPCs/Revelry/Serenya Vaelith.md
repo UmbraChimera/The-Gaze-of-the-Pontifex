@@ -34,5 +34,5 @@ Soft-spoken, almost tender. Speaks of annihilation as one might speak of mercy.
 - Manipulates [[Grainmother Alliera|Grainmother Alliera]] and the faithful through her charities.  
 
 ### Secrets
-- Knows the true purpose of the [[The Spire|The Spire]].  
+- Knows the true purpose of the [[Spire|Spire]].  
 - Her death would not end the ritual—only delay it.  

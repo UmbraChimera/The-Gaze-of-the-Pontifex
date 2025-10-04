@@ -6,7 +6,7 @@ tags: [Respite, Leadership, Conclave]
 	
 # 👑 The Pontifex of Respite
 The **Pontifex of Respite** serves as both the spiritual and political leader of the holy city-state of [[Respite]].  
-Chosen by the [[Conclave of Faiths]], the Pontifex embodies the divine unity that birthed the city after the [[The Spire]] erupted from the ground.  
+Chosen by the [[Conclave of Faiths]], the Pontifex embodies the divine unity that birthed the city after the [[Spire]] erupted from the ground.  
 He or she is both high priest and monarch—a single mortal voice for the will of all gods.
 
 > **Common Saying:** “The Spire stands because the Pontifex listens.”
@@ -18,7 +18,7 @@ He or she is both high priest and monarch—a single mortal voice for the will o
 - **Faith:** [[Corellon Larethian]]  
 - **Elected By:** The [[Conclave of Faiths]] (two-thirds majority).  
 - **Term:** Lifelong, or until removal by 80% no-confidence vote.  
-- **Seat of Power:** The **Crown of Faith**, built into the lower reaches of the [[The Spire]].  
+- **Seat of Power:** The **Crown of Faith**, built into the lower reaches of the [[Spire]].  
 - **Symbol of Office:** The **Spire-Crown**—a silver diadem crowned with sixteen orbiting gemstones, one for each divine seat.
 
 ---

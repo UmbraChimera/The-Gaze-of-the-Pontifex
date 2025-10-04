@@ -6,7 +6,7 @@ tags: [deity, Forbidden, Tharizdun, Respite]
 
 # 🔗 Tharizdun — The Chained God
 Elder evil of entropy, madness, and annihilation.  
-Once imprisoned by the gods beneath the **[[The Spire|The Spire]]**, Tharizdun’s name is now spoken only by cults that seek to unmake creation.  
+Once imprisoned by the gods beneath the **[[Spire|Spire]]**, Tharizdun’s name is now spoken only by cults that seek to unmake creation.  
 In **Respite**, his shadow moves through acts of charity and reform.
 
 - **Alignment:** Chaotic Evil  

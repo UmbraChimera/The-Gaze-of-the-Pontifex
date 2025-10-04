@@ -9,7 +9,7 @@ tags:
 ---
 # ⚔️ The Sanctified Guard
 Unified Guard of [[Respite|Respite]]. Ever-present as watch and defenders.  
-- Silver-blue armor with the [[The Spire|The Spire]] sigil on the chest.  
+- Silver-blue armor with the [[Spire|Spire]] sigil on the chest.  
 - The **left arm and shoulder** display a unique insignia and design reflecting each deity’s domain and aesthetic.  
 - All Guards obey the [[Pontifex of Respite|Pontifex of Respite]], unless orders directly violate their deity’s creed.  
 

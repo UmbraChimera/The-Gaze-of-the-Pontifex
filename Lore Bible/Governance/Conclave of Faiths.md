@@ -13,7 +13,7 @@ Each seat represents one of the sixteen major deities recognized by the city. To
 
 > **Common Saying:** “Sixteen voices, one divine will — when they agree.”
 
-The Conclave meets within the **Hall of Concord**, at the base of the [[The Spire]], directly beneath the Pontifex’s throne chamber. Every decision shapes faith, commerce, and politics throughout the city-state.
+The Conclave meets within the **Hall of Concord**, at the base of the [[Spire]], directly beneath the Pontifex’s throne chamber. Every decision shapes faith, commerce, and politics throughout the city-state.
 
 ---
 
@@ -77,7 +77,7 @@ Each member governs their deity’s temple, clergy, and economic spheres within 
 - **Tempus** and **Kelemvor** swing votes based on stability and preparedness.  
 - **Bane**’s seat acts as a threat—a lawful evil balance ensuring neither side grows too idealistic.  
 
-The next major debate: whether to extend rail lines beneath the [[The Spire]] for pilgrim transport—a decision that could literally unseal the divine lock.
+The next major debate: whether to extend rail lines beneath the [[Spire]] for pilgrim transport—a decision that could literally unseal the divine lock.
 
 ---
 
