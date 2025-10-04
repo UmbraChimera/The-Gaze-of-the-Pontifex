@@ -6,20 +6,20 @@ tags: [Respite, Leadership, Conclave]
 	
 # 👑 The Pontifex of Respite
 The **Pontifex of Respite** serves as both the spiritual and political leader of the holy city-state of [[Respite]].  
-Chosen by the [[Conclave of Faiths]], the Pontifex embodies the divine unity that birthed the city after  [[The Spire]] erupted from the ground.  
+Chosen by the [[Conclave of Faiths]], the Pontifex embodies the divine unity that birthed the city after the [[The Spire]] erupted from the ground.  
 He or she is both high priest and monarch—a single mortal voice for the will of all gods.
 
 > **Common Saying:** “The Spire stands because the Pontifex listens.”
 
 ---
 
-## Election & Tenure
-The Pontifex is elected from among the **sixteen current heads of the Conclave**, each eligible by divine office and proven service.
-
-- **Election Threshold:** A candidate must secure **12 of 16 votes** from the [[Conclave of Faiths]].  
-- **Term:** The role is held **for life**, or until removal by a **14 of 16 vote of no confidence** — an act that has never occurred in Respite’s history.  
-- **Eligibility:** Only sitting members of the Conclave may be nominated or elected.  
-- **Ceremony:** The elected Pontifex undergoes consecration within [[The Spire]], donning the **Spire-Crown** before the Hall of Concord.  
+## Overview
+- **Current Pontifex:** [[Coronal Thalanil Aurelion]]
+- **Faith:** [[Corellon Larethian]]  
+- **Elected By:** The [[Conclave of Faiths]] (two-thirds majority).  
+- **Term:** Lifelong, or until removal by 80% no-confidence vote.  
+- **Seat of Power:** The **Crown of Faith**, built into the lower reaches of the [[The Spire]].  
+- **Symbol of Office:** The **Spire-Crown**—a silver diadem crowned with sixteen orbiting gemstones, one for each divine seat.
 
 ---
 
@@ -29,6 +29,18 @@ The Pontifex is elected from among the **sixteen current heads of the Conclave**
 - **Commander of the Faithful:** Holds supreme authority over the [[Sanctified Guard]].  
 - **Guardian of the Spire:** Oversees rituals that maintain the divine lock on [[Tharizdun]].  
 - **Diplomatic Head:** Speaks for Respite in matters of faith, trade, and foreign relations.  
+
+---
+
+## Election & Coronation
+When a Pontifex dies or is removed, the Conclave begins the *Vigil of Voices*:
+1. **Nomination:** Each temple nominates one candidate.  
+2. **Debate:** The Conclave holds three days of open sermons in the Hall of Concord.  
+3. **Vote:** Requires a two-thirds majority of the Conclave.  
+4. **Vigil:** The chosen candidate fasts for three days in silent meditation at the base of the Spire.  
+5. **Coronation:** On the fourth dawn, the Spire-Crown is placed upon their brow by the oldest living cleric of [[Tyr]].
+
+Upon coronation, the Pontifex becomes a living conduit of divine resonance—capable of sensing the Spire’s hum and fluctuations.
 
 ---
 
@@ -59,6 +71,13 @@ When the balance of faith shifts within Respite, the gemstones alter color—a v
 - **Mediator:** Frequently relies on [[Mystra]] and [[Oghma]] as neutral voices in the Conclave.
 
 The Pontifex relies on the [[Sanctified Guard]] and Hammergate’s guild tithes to enforce policy and maintain peace.
+
+---
+
+## Ceremonies & Symbols
+- **The Covenant Vigil:** The Pontifex leads a midnight prayer in the Crown of Faith every new moon, reaffirming the gods’ unity.  
+- **Festival of Concord:** Annual citywide celebration marking the Spire’s creation and the first Conclave’s founding.  
+- **Spire Edicts:** Decrees issued by the Pontifex; automatically binding divine law unless overturned by a full Conclave vote.  
 
 ---
 
