@@ -19,10 +19,11 @@ The Conclave meets within the **Hall of Concord**, at the base of the [[The Spir
 
 ## Overview
 - **Members:** 16 high clerics, each the spiritual head of their deity’s temple within Respite.  
-- **Presiding Officer:** The [[Pontifex of Respite]] — currently [[Coronal Thalanil Aurelion]].  
+- **Presiding Officer:** The [[Pontifex of Respite]] — currently [[Coronal Thalanil Aurelion]]
 - **Meeting Place:** The Hall of Concord, within the Crown of Faith district.  
-- **Voting Procedure:** Each seat has one vote; a two-thirds majority enacts or overturns an Edict.  
+- **Voting Procedure:** Enacting or repealing laws requires **12 of 16 votes** in favor.  
 - **Power:** The Conclave’s decisions are binding divine law across all faiths within the city-state.  
+ 
 
 ---
 
