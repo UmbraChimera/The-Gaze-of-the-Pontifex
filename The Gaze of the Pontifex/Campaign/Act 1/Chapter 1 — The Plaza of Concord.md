@@ -88,7 +88,7 @@ A golden carriage bearing the sigil of the Dawnflower arrives from the [[Halls o
 >  Faith without mercy is tyranny by another name.”*
 
 **Checks during the speech:**
-
+	
 | Action         | Skill      | DC  | Result                                                         |
 | -------------- | ---------- | --- | -------------------------------------------------------------- |
 | Gauge Reaction | Society    | 13  | Recognize rising tension among Guards.                         |
