@@ -36,8 +36,6 @@ Pharasmin lanterns illuminate miles of sealed doors marked only by sigils of war
 
 ## Faith Presence
 - [[The Annulus]] — Central seal chamber; divine lattice containing [[Rovagug]].  
-- [[The Spiral Vaults]] — Hidden network used by the cult of [[Serenya Vaelith]].  
-- [[The Garden of Chains]] — Pharasmin meditation hall built above sealed tunnels.
 
 ---
 

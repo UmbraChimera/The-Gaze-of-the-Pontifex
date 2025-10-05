@@ -39,7 +39,7 @@ They alone possess the authority to interrogate priests, Pontifical aides, or ev
 1. **Prelate of Chains:** [[Prelate Korven Dreadmark]] — supreme head of the Tribunal; reports directly to the [[Pontifex of Respite]] but takes orders from none.  
 2. **Justiciars of Iron:** Senior inquisitors and executioners; command local tribunals across the districts.  
 3. **Iron Adepts:** Spellbinding priests trained in pain-based divinations.  
-4. **Scriptors:** Record keepers who transcribe confessions into enchanted scrolls stored in the [[Infernal Archive]].  
+4. **Scriptors:** Record keepers who transcribe confessions into enchanted scrolls stored in the [[Infernal Archive]]. 
 5. **Acolytes of Order:** Low-ranking enforcers embedded within the [[Sanctified Guard]] and district courts.  
 
 Every rank wears the same black-and-crimson tabard to obscure identity; only the Prelate’s chain sigil distinguishes him.
@@ -67,7 +67,7 @@ Tribunal inquisitors operate under *Divine Writs of Authority*, allowing them to
 - **[[Crown Administrative Ward]]:** Maintains silent auditors within the [[Bureau of Divine Decrees]].  
 - **[[Hammergate]]:** Monitors forge output to prevent “divine weapon heresy.”  
 - **[[Halls of Relief]]:** Disguised agents infiltrate charities, searching for Serenya’s cult remnants.  
-- **[[Under-Spire]]:** Operates a forbidden watchpost near the [[Annulus]].  
+- **[[Under-Spire]]:** Operates a forbidden watchpost near the [[The Annulus]].  
 
 The Tribunal’s eyes are everywhere, but their footsteps are never heard.
 
