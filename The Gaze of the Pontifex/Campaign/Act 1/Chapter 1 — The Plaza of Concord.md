@@ -88,11 +88,12 @@ A golden carriage bearing the sigil of the Dawnflower arrives from the [[Halls o
 >  Faith without mercy is tyranny by another name.”*
 
 **Checks during the speech:**
-| Action | Skill | DC | Result |
-|--------|--------|----|--------|
-| Gauge Reaction | Society | 13 | Recognize rising tension among Guards. |
-| Scan Rooftops | Perception | 15 | Spot faint glint of metal. |
-| Sense Motive | Insight | 13 | Serenya seems to anticipate interruption, almost welcoming it. |
+
+| Action         | Skill      | DC  | Result                                                         |
+| -------------- | ---------- | --- | -------------------------------------------------------------- |
+| Gauge Reaction | Society    | 13  | Recognize rising tension among Guards.                         |
+| Scan Rooftops  | Perception | 15  | Spot faint glint of metal.                                     |
+| Sense Motive   | Insight    | 13  | Serenya seems to anticipate interruption, almost welcoming it. |
 
 ---
 
@@ -121,13 +122,14 @@ You can track tension with a simple 1–5 scale:
 >  Bells scream from every tower; the crowd erupts into panic.*  
 
 **Immediate Skill Opportunities**
-| Task | Skill | DC | Effect |
-|------|--------|----|--------|
-| Protect Serenya | Reflex Save | 16 | Shield her from further harm. |
-| Calm Crowd | Diplomacy / Performance | 15 | Prevent stampede. |
-| Spot Shooter | Perception | 17 | Glimpse movement on rooftops. |
-| Chase Shooter | Athletics / Acrobatics | 16 | Begin pursuit into Act 1 Chapter 2. |
-| Aid Wounded | Medicine / Heal | 15 | Heal 1d8 HP + Wis mod to civilians. |
+
+| Task            | Skill                   | DC  | Effect                              |
+| --------------- | ----------------------- | --- | ----------------------------------- |
+| Protect Serenya | Reflex Save             | 16  | Shield her from further harm.       |
+| Calm Crowd      | Diplomacy / Performance | 15  | Prevent stampede.                   |
+| Spot Shooter    | Perception              | 17  | Glimpse movement on rooftops.       |
+| Chase Shooter   | Athletics / Acrobatics  | 16  | Begin pursuit into Act 1 Chapter 2. |
+| Aid Wounded     | Medicine / Heal         | 15  | Heal 1d8 HP + Wis mod to civilians. |
 
 ---
 
