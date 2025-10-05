@@ -45,9 +45,9 @@ The [[Golden Ledger]]’s smaller branches handle daily taxation, while contract
 ---
 
 ## Faith Presence
-- [[The Bureau of Divine Decrees]] — Central record hall for the city’s laws and edicts.  
-- [[The Registrar’s Hall]] — Civil registry for births, deaths, oaths, and marriages.  
-- [[The Treasury Court]] — Judicial and fiscal temple of Abadar.  
+- [[Bureau of Divine Decrees]] — Central record hall for the city’s laws and edicts.  
+- [[Registrar’s Hall]] — Civil registry for births, deaths, oaths, and marriages.  
+- [[Treasury Court]] — Judicial and fiscal temple of Abadar.  
 
 ---
 

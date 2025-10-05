@@ -42,9 +42,9 @@ The Garden’s holy relic trade is the most subtle form of economy in Respite �
 ---
 
 ## Faith Presence
-- [[The Whispering Shrines]] — Silent sanctuary where all gods share space.  
-- [[The Fountain of Petals]] — Shelyn’s sacred spring of beauty and renewal.  
-- [[The Silent Grove]] — Pharasmin funerary garden where souls are laid to rest.
+- [[Whispering Shrines]] — Silent sanctuary where all gods share space.  
+- [[Fountain of Petals]] — Shelyn’s sacred spring of beauty and renewal.  
+- [[Silent Grove]] — Pharasmin funerary garden where souls are laid to rest.
 
 ---
 

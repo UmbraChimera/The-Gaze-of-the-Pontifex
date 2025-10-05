@@ -24,4 +24,4 @@ Clerics here bless new trade pacts, sanctify warehouses, and oversee ethical lab
 ---
 
 ### Cross-Links
-[[Hammergate]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[The Golden Ledger]]
+[[Hammergate]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[Golden Ledger]]

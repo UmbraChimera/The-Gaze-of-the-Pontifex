@@ -40,4 +40,4 @@ Her songs echo from balconies at night, carrying both hope and quiet rebellion.
 ---
 
 ### Cross-Links
-[[Conclave of Faiths]] • [[Starseer Mirathiel Silver-Eye]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Starlit Path]]
+[[Conclave of Faiths]] • [[Starseer Mirathiel Silver-Eye]] • [[Pontifex of Respite]] • [[Sanctified Guard]]

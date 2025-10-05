@@ -29,4 +29,4 @@ Trials here are both judicial and spiritual; oaths are sworn under divine scruti
 ---
 
 ### Cross-Links
-[[Crown of Faith]] • [[Iomedae]] • [[High Justiciar Arria Varus]] • [[Pontifex of Respite]] • [[The Golden Ledger]]
+[[Crown of Faith]] • [[Iomedae]] • [[High Justiciar Arria Varus]] • [[Pontifex of Respite]] • [[Golden Ledger]]

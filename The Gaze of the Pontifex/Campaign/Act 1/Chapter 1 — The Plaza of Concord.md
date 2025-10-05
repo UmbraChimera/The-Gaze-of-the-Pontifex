@@ -57,7 +57,7 @@ Instead, it will ignite a crisis that shatters divine order.
 ## Arrival Hooks
 - **Guard Detail:** The PCs serve under Arria Varus’s command, assigned to crowd control or rooftop watch.  
 - **Faithful Attendees:** They came to hear Serenya’s call for mercy, perhaps already sympathetic to her Reformers.  
-- **Guild Envoys:** Sent from [[Hammergate]] or the [[Aurelion Guild Compact]] to gauge whether reforms threaten their profits.  
+- **Guild Envoys:** Sent from [[Hammergate]] to gauge whether reforms threaten their profits.  
 - **Scholars:** Chroniclers from the [[Scholarium]] recording the sermon for posterity.  
 - **Pilgrims or Outsiders:** Seeking blessing from the Dawnmother; witnesses to destiny.
 

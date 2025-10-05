@@ -44,16 +44,16 @@ These three are collectively called **The Triarchs of the Crown**, and no law pa
 ## Economy
 Wealth here flows from art, law, and patronage.  
 Gold changes hands through commissions — statues, frescoes, and legal codices.  
-[[The Golden Ledger]] manages all tithes and contracts, while artisans of the [[Prism Choir]] produce masterpieces “for the glory of unity.”
+[[Golden Ledger]] manages all tithes and contracts, while artisans of the [[Prism Choir]] produce masterpieces “for the glory of unity.”
 
 ---
 
 ## Faith Presence
 The Crown holds Respite’s most powerful temples:  
-- [[The Prism Choir]] — Cathedral of Shelyn and seat of the Pontifex.  
+- [[Prism Choir]] — Cathedral of Shelyn and seat of the Pontifex.  
 - [[Hall of Concord]] — Meeting place of the [[Conclave of Faiths]].  
-- [[The Golden Ledger]] — Treasury and legal vault of Abadar.  
-- [[The Hall of Scales]] — Tribunal of Iomedae’s faithful and site of divine duels.
+- [[Golden Ledger]] — Treasury and legal vault of Abadar.  
+- [[Hall of Scales]] — Tribunal of Iomedae’s faithful and site of divine duels.
 
 ---
 

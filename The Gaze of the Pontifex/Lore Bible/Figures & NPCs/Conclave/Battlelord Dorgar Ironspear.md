@@ -43,11 +43,10 @@ Despite his ferocity, he bears no malice — every fight is sacred play to him.
 ---
 
 ### Secrets (GM Only)
-- Keeps a hidden armory forged from meteoric iron beneath the [[Crimson Bastion]].  
 - Once led a secret mission to clear undead from the Spire’s foundation — but claims something *fought back from within*.  
 - His “sacred armor” is bound with faint runes that hum when  [[The Spire]] pulses — he believes it calls warriors to destiny.  
 
 ---
 
 ### Cross-Links
-[[Gorum]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Crimson Bastion]]
+[[Gorum]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]]

@@ -55,4 +55,4 @@ Believes that “truth sounds best after a pint or two.”
 ---
 
 ### Cross-Links
-[[Cayden Cailean]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Hero’s Rest]]
+[[Cayden Cailean]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Hero's Rest]]

@@ -50,4 +50,4 @@ Shows kindness to the grieving, impatience to the ambitious.
 ---
 
 ### Cross-Links
-[[Pharasma]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Cathedral of Passing]] • [[River Aurelion Front]]
+[[Pharasma]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] •  [[River Aurelion Front]]

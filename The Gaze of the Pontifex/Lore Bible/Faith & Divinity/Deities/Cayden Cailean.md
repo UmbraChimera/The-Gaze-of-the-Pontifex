@@ -45,4 +45,4 @@ They champion laborers’ rights, personal liberty, and laughter as sacred prote
 ---
 
 ### Cross-Links
-[[Conclave of Faiths]] • [[Alewarden Ysella Bramblebrook]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Hero’s Rest]]
+[[Conclave of Faiths]] • [[Alewarden Ysella Bramblebrook]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Hero's Rest]]

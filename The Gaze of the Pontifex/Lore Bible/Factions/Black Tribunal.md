@@ -82,14 +82,14 @@ The Tribunal’s eyes are everywhere, but their footsteps are never heard.
 ---
 
 ## Relationships & Politics
-| Faction | Relationship | Notes |
-|----------|---------------|-------|
-| [[Pontifex of Respite]] | Obedience through fear | Officially loyal; covertly manipulates decrees through leverage. |
-| [[Conclave of Faiths]] | Distrusted | Feared watchdog of divine unity; tolerated only by necessity. |
-| [[Sanctified Guard]] | Intertwined | Shares officers and informants; some orders resent Tribunal interference. |
-| [[Dawnmother Serenya Vaelith]] | Enemy (Unknowingly) | Her cult threatens the law’s divine foundation — they hunt heresy, not truth. |
-| [[Forge Marshal Korrim Anvilsine]] | Cooperative | Supplies interrogation tools and wards “for civic safety.” |
-| [[Warmaster Dorgar Ironspear]] | Resentful | Sees them as cowards who hide behind chains instead of courage. |
+| Faction                           | Relationship           | Notes                                                                         |
+| --------------------------------- | ---------------------- | ----------------------------------------------------------------------------- |
+| [[Pontifex of Respite]]           | Obedience through fear | Officially loyal; covertly manipulates decrees through leverage.              |
+| [[Conclave of Faiths]]            | Distrusted             | Feared watchdog of divine unity; tolerated only by necessity.                 |
+| [[Sanctified Guard]]              | Intertwined            | Shares officers and informants; some orders resent Tribunal interference.     |
+| [[Dawnmother Serenya Vaelith]]    | Enemy (Unknowingly)    | Her cult threatens the law’s divine foundation — they hunt heresy, not truth. |
+| [[Forgefather  Korrim Anvilsine]] | Cooperative            | Supplies interrogation tools and wards “for civic safety.”                    |
+| [[Battlelord Dorgar Ironspear]]   | Resentful              | Sees them as cowards who hide behind chains instead of courage.               |
 
 ---
 

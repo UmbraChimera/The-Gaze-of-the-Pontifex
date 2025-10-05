@@ -45,7 +45,7 @@ The **Golden Sun Market** acts as both bazaar and redistribution hub.
 
 ## Faith Presence
 - [[Cathedral of the Dawn]] — Grand temple of [[Sarenrae]], beacon of reform and mercy.  
-- [[The Hero’s Rest]] — Tavern-temple of [[Cayden Cailean]], haven for pilgrims and soldiers.  
+- [[Hero's Rest]] — Tavern-temple of [[Cayden Cailean]], haven for pilgrims and soldiers.  
 - [[The Hearth Hall]] — Erastilian community center for food, family, and education.  
 
 ---

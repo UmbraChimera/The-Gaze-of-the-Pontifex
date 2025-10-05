@@ -41,4 +41,4 @@ Their votes shift unpredictably, swayed only by those who prove strength of conv
 ---
 
 ### Cross-Links
-[[Conclave of Faiths]] • [[Battlelord Dorgar Ironspear]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Crimson Bastion]]
+[[Conclave of Faiths]] • [[Battlelord Dorgar Ironspear]] • [[Pontifex of Respite]] • [[Sanctified Guard]]

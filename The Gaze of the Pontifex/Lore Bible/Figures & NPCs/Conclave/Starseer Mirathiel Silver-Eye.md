@@ -50,4 +50,4 @@ Laughs easily but mourns every loss as though it were written in the stars.
 ---
 
 ### Cross-Links
-[[Desna]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Starlit Path]]
+[[Desna]] • [[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]]

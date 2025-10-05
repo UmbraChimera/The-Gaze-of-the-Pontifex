@@ -43,4 +43,4 @@ Politically, the Pharasmins are neutral but feared; every faction requires their
 ---
 
 ### Cross-Links
-[[Conclave of Faiths]] • [[Gravewarden Orrin Varith]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Cathedral of Passing]]
+[[Conclave of Faiths]] • [[Gravewarden Orrin Varith]] • [[Pontifex of Respite]] • [[Sanctified Guard]]

@@ -41,4 +41,4 @@ Under her banner, the Pontifex rules as *Coronal*, blending faith and art into a
 ---
 
 ### Cross-Links
-[[Conclave of Faiths]] • [[Coronal Thalanil Aurelion]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[The Prism Choir]]
+[[Conclave of Faiths]] • [[Coronal Thalanil Aurelion]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Prism Choir]]
