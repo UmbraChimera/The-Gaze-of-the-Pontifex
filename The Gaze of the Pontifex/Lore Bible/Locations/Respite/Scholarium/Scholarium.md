@@ -1,0 +1,55 @@
+---
+title: Scholarium
+type: city-district
+tags: [Respite, District, Scholarium]
+---
+
+# 🧠 Scholarium
+Respite’s bastion of intellect — towers of [[Nethys]] and cloisters of [[Irori]] where scholars debate creation itself. Quiet by day, dangerous by night when experiments escape.
+
+## Overview
+- **Population:** ~30,000 (monks, wizards, alchemists, scribes)  
+- **Dominant Faiths:** [[Nethys]], [[Irori]]  
+- **Primary Function:** Research, archives, magical/theological education  
+- **Atmosphere:** Scholarly, austere, faintly crackling with power
+
+## Architecture
+White marble academies set against black basalt towers. Sigils on every lintel; brass automata enforce apprentice curfews.
+
+## Leadership
+- **[[Magister Pelbranth Mystralis]]** (Nethys) — oversees magical ethics and the [[Hall of Refraction]].  
+- **[[Ascetic Dhenar Rajesh]]** (Irori) — maintains the [[Monastery of the Perfect Quill]] and archives.  
+- **Dean Talura Veyr** — mortal head of the Lyceum of the Divine Mind.
+
+## Economy
+The **Registry of Approved Miracles** licenses innovations. Enchantments, relics, and consultancies are the chief exports.
+
+## Faith Presence
+- [[Hall of Refraction]] — Nethys’s tower and court of magical law.  
+- [[Monastery of the Perfect Quill]] — Irori’s serene archive-monastery.  
+- [[The Living Codex]] — self-writing scripture that updates city law.
+
+## Crime & Corruption
+Scroll black markets, memory smuggling, spell espionage. Nethys’s **Arcane Sentinels** patrol with floating eyes that see every casting.
+
+> *“In the Scholarium, knowledge is faith — ignorance is heresy.”*
+
+## Rumors
+- The Living Codex deletes names when Serenya is spoken near it.  
+- A golem in the Hall of Refraction now preaches sermons.  
+- The Perfect Quill records gods’ dreams — including some long dead.
+
+## Common Shops & Services
+| Type | Name | Description |
+|---|---|---|
+| Library | **The Open Tome** | Public stacks; sealed wings for clergy only. |
+| Alchemist | **Silver & Salt** | Experimental elixirs (sometimes explosive). |
+| Scribe | **The Inkwright’s Hand** | Enchanted quills and scroll templates. |
+| Magic Shop | **The Paradoxical Lantern** | Oddities of uncertain purpose. |
+| Tavern | **The Quiet Debate** | Arguments recorded as wagers. |
+| Inn | **The Philosopher’s Rest** | Modest lodging; lectures at breakfast. |
+
+## GM Hooks
+- The Living Codex begins deleting the PCs’ names.  
+- An escaped experiment flees toward the Halls of Relief.  
+- A “third aspect” cult of Nethys forms, worshipping chaos as truth.
