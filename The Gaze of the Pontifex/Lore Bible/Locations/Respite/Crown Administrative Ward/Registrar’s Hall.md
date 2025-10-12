@@ -17,12 +17,5 @@ It is said every citizen’s name — living or dead — is written here at leas
 
 ---
 
-## Secrets (GM Only)
-- Names of the dead occasionally fade, only to reappear under “pending review.”  
-- A clerk claims the Hall has begun *adding* names of people no one remembers.  
-- [[Gravewarden Orrin Varith]] uses the registry to track reincarnations that break Pharasma’s cycle.  
-
----
-
 ### Cross-Links
 [[Crown Administrative Ward]] • [[Pharasma]] • [[Abadar]] • [[Gravewarden Orrin Varith]]

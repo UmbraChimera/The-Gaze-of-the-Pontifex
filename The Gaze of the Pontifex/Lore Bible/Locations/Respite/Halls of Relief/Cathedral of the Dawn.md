@@ -38,24 +38,3 @@ Open to all; no titles or ranks are recognized within its nave.
 The [[Sanctified Guard]] maintains a ceremonial watch but does not interfere in confessions or penance.  
 By decree of the [[Pontifex of Respite]], none may carry drawn steel within fifty paces of the central brazier.  
 During the nightly *Rite of Dimming*, all fires are lowered save the central flame, which burns through the darkness.
-
----
-
-## Encounters & Secrets
-- **Dawnmother Serenya Vaelith:** Radiant and beloved; her sermons focus on unity and compassion, drawing pilgrims from every ring.  
-- **The Flame of Atonement:** Central brazier said to judge the soul’s sincerity — burns crimson for anger, gold for mercy.  
-- **Hidden Reliquary:** Beneath the altar lies a vault of relics from early crusaders; access is limited to the Dawnmother and two trusted clerics.  
-- **The Weeping Window:** Stained glass that occasionally drips clear water at dawn — believed to be Sarenrae’s blessing.
-
----
-
-## Adventure Hooks
-- **Ashes of the Unforgiven:** A sealed urn left on the cathedral steps bears the name of a living noble — and begins to whisper.  
-- **The Dimming Flame:** The central brazier flickers for the first time in centuries; the Dawnmother seeks aid to investigate without causing panic.  
-- **Mercy’s Price:** After granting sanctuary to a fugitive, the cathedral faces Tribunal sanction unless the PCs mediate a lawful solution.
-
----
-
-## Notes
-The Cathedral of the Dawn embodies the hope that mercy can temper order.  
-It

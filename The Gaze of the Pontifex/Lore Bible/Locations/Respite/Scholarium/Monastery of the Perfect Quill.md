@@ -12,10 +12,3 @@ Irori’s serene archive-monastery where truth is copied until it is perfected. 
 - **The Breath Hall:** Meditation chamber aligned to the Spire’s hum.  
 - **The Vault of Errata:** A sealed archive of mistakes never to be repeated.
 
-## Secrets (GM Only)
-- Hidden shelves contain fragments of the **Annulus Codex**.  
-- Ascetic Rajesh hears the Spire’s rhythm as a mantra — lately, it stutters.  
-- A monk has perfected a heretical “shortening” script that erases names.
-
-### Cross-Links
-[[Scholarium]] • [[Irori]] • [[Ascetic Dhenar Rajesh]] • [[The Living Codex]]

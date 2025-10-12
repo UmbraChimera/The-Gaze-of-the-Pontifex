@@ -16,13 +16,3 @@ Here, worship takes the form of combat. The clang of blades against armor is as 
 - **The Blood Gate:** A massive iron arch through which initiates must fight their way to earn the title of “Warmade.”  
 
 ---
-
-## Secrets (GM Only)
-- The Blood Gate is built from reforged weapons taken from enemies of faith — its metal whispers their dying curses.  
-- [[Battlelord Dorgar Ironspear]] trains a secret militia of zealots here, answering to him alone.  
-- The Yard’s underground level contains an unblessed forge — its fire black and cold, reserved for heretical creation.  
-
----
-
-### Cross-Links
-[[Hammergate]] • [[Gorum]] • [[Battlelord Dorgar Ironspear]] • [[Sanctified Guard]]

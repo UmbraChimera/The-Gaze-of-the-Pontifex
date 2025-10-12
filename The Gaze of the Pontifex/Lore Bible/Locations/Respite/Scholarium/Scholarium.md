@@ -29,15 +29,6 @@ The **Registry of Approved Miracles** licenses innovations. Enchantments, relics
 - [[Monastery of the Perfect Quill]] — Irori’s serene archive-monastery.  
 - [[The Living Codex]] — self-writing scripture that updates city law.
 
-## Crime & Corruption
-Scroll black markets, memory smuggling, spell espionage. Nethys’s **Arcane Sentinels** patrol with floating eyes that see every casting.
-
-> *“In the Scholarium, knowledge is faith — ignorance is heresy.”*
-
-## Rumors
-- The Living Codex deletes names when Serenya is spoken near it.  
-- A golem in the Hall of Refraction now preaches sermons.  
-- The Perfect Quill records gods’ dreams — including some long dead.
 
 ## Common Shops & Services
 | Type | Name | Description |
@@ -49,7 +40,3 @@ Scroll black markets, memory smuggling, spell espionage. Nethys’s **Arcane Sen
 | Tavern | **The Quiet Debate** | Arguments recorded as wagers. |
 | Inn | **The Philosopher’s Rest** | Modest lodging; lectures at breakfast. |
 
-## GM Hooks
-- The Living Codex begins deleting the PCs’ names.  
-- An escaped experiment flees toward the Halls of Relief.  
-- A “third aspect” cult of Nethys forms, worshipping chaos as truth.

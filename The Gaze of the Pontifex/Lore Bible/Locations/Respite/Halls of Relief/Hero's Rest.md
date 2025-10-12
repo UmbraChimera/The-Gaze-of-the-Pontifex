@@ -36,24 +36,3 @@ Healers from neighboring temples often send patients here when divine magic cann
 The [[Sanctified Guard]] unofficially patrol the door to prevent excess brawling; the [[Black Tribunal]] calls the place “a den of moral infection.”
 
 ---
-
-## Encounters & Secrets
-- **Alewarden Ysella Bramblebrook** (Halfling Cleric 7, CG): warm-voiced and sharp-eyed, she heals with drink and wit alike.  Her brewing implements double as alchemical tools.  
-- **The Endless Keg:** A relic said to refill from Cayden’s divine breath when a toast is made to “Freedom hard-won.”  
-- **The Whispering Taproom:** After midnight, spirits of fallen healers gather here — not haunting, but sharing counsel over phantom ale. 
----
-
-## Adventure Hooks
-- **The Bitter Cure:** A batch of healing ale has turned sour overnight; Ysella suspects a curse laid through the city’s water blessing.  
-- **A Toast to the Lost:** A dying hero asks the PCs to drink with him at Hero’s Rest; his final tale contains a clue to a hidden relic.  
-- **The Trial of Courage:** During the Festival of Concord, the Pontifex decrees a contest of bravery — the Cup of Trial becomes a stage for political sabotage.  
-
----
-
-## Notes
-Hero’s Rest embodies the paradox of Respite itself: **mercy through mirth**.  In a city obsessed with purity, it proves that healing may come from indulgence, friendship, and the courage to live loudly in the face of pain.
-
----
-
-### Cross-Links
-[[Conclave of Faiths]] • [[Alewarden Ysella Bramblebrook]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Halls of Relief]]

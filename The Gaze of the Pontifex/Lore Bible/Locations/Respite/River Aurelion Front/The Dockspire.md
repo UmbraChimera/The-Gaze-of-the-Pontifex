@@ -23,13 +23,3 @@ Sailors claim the beam hums in harmony with the city’s divine resonance.
 
 ---
 
-## Secrets (GM Only)
-- The Dockspire’s light once pulsed black for a night — it was seen as far as the Crown of Faith.  
-- Hidden beneath its foundation is a chamber called **The Deep Mirror**, a portal into the reflection of the Aurelion below.  
-- [[Warden Tharo Stormleaf]] forbids its mention; he claims the Mirror “dreams of drowning the sun.”  
-
----
-
-### Cross-Links
-[[River Aurelion Front]] • [[Gozreh]] • [[Cayden Cailean]] • [[Warden Tharo Stormleaf]] • [[The Spire]]
-	

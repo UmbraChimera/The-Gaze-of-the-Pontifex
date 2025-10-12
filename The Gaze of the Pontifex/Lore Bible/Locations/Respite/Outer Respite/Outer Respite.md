@@ -43,26 +43,4 @@ During the **Festival of Concord**, the roads become thronged with tents and hym
 
 ---
 
-## Encounters & Secrets
-- **Brother Calen of the Furrows:** Young Erastilian priest overseeing the irrigation projects, secretly compiling stories of divine miracles for a hidden archive.  
-- **The Silent Shrine:** A ruined waystation whose altar glows faintly at dusk, though no priest has tended it in generations.  
-- **The Harvest Sigil:** Circles of unburned wheat appearing in fields near the Spire’s shadow; farmers whisper of angelic footprints.  
-- **The Hidden Chapel:** Beneath an abandoned farmhouse lies an older shrine whose carvings depict the gods standing *in council around a ring of light.*
-
 ---
-
-## Adventure Hooks
-- **The Pilgrim’s Burden:** A procession of wounded refugees seeks entry into the city; the PCs must negotiate passage through the Bastion’s bureaucracy.  
-- **Famine’s Shadow:** A blight spreads from the riverbanks, resisted only by crops blessed at the Hearth Hall — but the blessing fades.  
-- **Echoes of the Pasture:** Shepherds report voices from the wind at night — pleas to “open the way.” Investigation leads to an unregistered shrine.  
-
----
-
-## Notes
-Outer Respite sustains the city not just with grain, but with faith.  
-Here, Erastil’s creed of shared labor binds the mighty city to the humble earth — a reminder that even holiness needs roots.
-
----
-
-### Cross-Links
-[[Crown Administrative Ward]] • [[The Hearth Hall]] • [[Sanctified Guard]] • [[Pontifex of Respite]] • [[The Bastion Wall]]

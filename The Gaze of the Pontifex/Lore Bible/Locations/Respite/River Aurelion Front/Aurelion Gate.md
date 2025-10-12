@@ -21,13 +21,3 @@ The gate’s design mirrors [[The Spire]]: perfect symmetry, divine proportion, 
 - **The Pilgrim’s Causeway:** A long bridge connecting Outer Respite to the inner walls, lined with statues of every god.  
 
 ---
-
-## Secrets (GM Only)
-- Hidden beneath the Pilgrim’s Causeway is a tunnel used by smugglers and spies.  
-- The runes of Abadar faintly pulse when spoken prayers of **Rovagug** are uttered nearby.  
-- The arch’s keystone holds a relic called *The First Contract*, believed to have been signed by the gods after binding the Rough Beast.  
-
----
-
-### Cross-Links
-[[River Aurelion Front]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[Pontifex of Respite]]

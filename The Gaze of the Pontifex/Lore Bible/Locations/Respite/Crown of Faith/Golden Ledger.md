@@ -21,12 +21,5 @@ Its walls are lined with ledgers etched into brass, each line a transaction bles
 
 ---
 
-## Secrets (GM Only)
-- [[Archon Varrin Calistane]] maintains a secret vault beneath the temple: The “Silent Account,” containing debts owed by Conclave members.  
-- Some ledgers occasionally rewrite themselves — believed to be Abadar’s correction of moral imbalance.  
-- Every vault key has a twin kept deep in the [[Under-Spire]].
-
----
-
 ### Cross-Links
 [[Crown of Faith]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[Pontifex of Respite]]

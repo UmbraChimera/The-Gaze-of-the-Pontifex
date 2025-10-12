@@ -18,12 +18,5 @@ Every verdict is etched in gold leaf across the courtroom’s walls.
 
 ---
 
-## Secrets (GM Only)
-- A hidden sub-ledger lists payments not made in coin, but in souls.  
-- An infernal contract discovered here was written in the Pontifex’s hand — and signed in his blood.  
-- A door behind the Chamber of Weights opens only when two judges disagree.
-
----
-
 ### Cross-Links
 [[Crown Administrative Ward]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[Prelate Korven Dreadmark]]

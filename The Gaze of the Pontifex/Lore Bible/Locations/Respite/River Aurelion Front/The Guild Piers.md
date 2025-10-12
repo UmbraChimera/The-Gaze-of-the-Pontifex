@@ -21,13 +21,3 @@ The air here is a chorus of bells, gulls, and the endless clatter of crates and 
 - **The Rust Market:** Black-market disguised as junkyard; technically legal under “salvage” law.  
 
 ---
-
-## Secrets (GM Only)
-- The Rust Market doubles as a meeting place for the Black Tribunal’s agents.  
-- Contraband relics from the [[Under-Spire]] have begun surfacing here.  
-- A merchant known as “Silverhands” trades divine materials to unknown buyers.  
-
----
-
-### Cross-Links
-[[River Aurelion Front]] • [[Abadar]] • [[Cayden Cailean]] • [[Pontifex of Respite]]

@@ -57,22 +57,6 @@ The Crown holds Respite’s most powerful temples:
 
 ---
 
-## Crime & Corruption
-Open crime is rare — punishment is immediate and public.  
-Corruption, however, thrives in refinement.  
-Contracts written in divine script can hide mortal greed, and even a bribe here arrives in a velvet envelope sealed with gold wax.
-
-> *“In the Crown, sins are sung, not shouted.”*
-
----
-
-## Rumors
-- *A fresco in the Hall of Concord shows a seventeenth sigil glowing faintly beneath the others.*  
-- *The Pontifex’s reflection has not appeared in mirrors since the last equinox.*  
-- *The statue of Shelyn in the Prism Choir weeps rosewater every new moon.*  
-
----
-
 ## Common Shops & Services
 | Type | Name | Description |
 |------|------|-------------|
@@ -83,10 +67,3 @@ Contracts written in divine script can hide mortal greed, and even a bribe here 
 | Artisan Workshop | **The Marble Muse** | Public gallery for Shelynite artists; open commissions available. |
 | Tavern | **The Holy Ember** | Quiet luxury tavern for clergy and nobles; every drink served with a blessing. |
 | Inn | **The Dove’s Rest** | High-end inn; peaceful atmosphere, soundproofed for prayer and politics. |
-
----
-
-## GM Hooks
-- The PCs are commissioned to recover a stolen masterpiece — one painted entirely in divine light.  
-- A noble’s will has been sealed magically in the Golden Ledger, and someone wants it “misfiled.”  
-- A newly finished fresco in the Hall of Concord depicts the PCs in a scene that hasn’t happened yet.

@@ -50,20 +50,6 @@ The **Wall Markets** sell goods to soldiers and mercenaries, ranging from ration
 
 ---
 
-## Crime & Corruption
-Corruption wears armor here.  
-Smuggling relics and falsifying conscription orders are the main crimes.  
-The [[Black Tribunal]] operates a secret prison inside the wall — *The Chain Cells* — for “divine dissidents.”
-
-> *“The wall keeps the world out — and sometimes, truth with it.”*
-
----
-
-## Rumors
-- *A new tower on the western quadrant was built overnight; no one recalls who authorized it.*  
-- *The Chain Cells echo with screams, but no prisoners are listed there.*  
-- *The wall’s eastern segment hums like the Spire during storms.*  
-
 ---
 
 ## Common Shops & Services
@@ -77,8 +63,3 @@ The [[Black Tribunal]] operates a secret prison inside the wall — *The Chain C
 | Inn | **The Guardian’s Rest** | Spartan quarters for travelers under Guard escort. |
 
 ---
-
-## GM Hooks
-- The PCs are recruited to investigate sabotage in the wall’s forges — the molten metal “screamed” before hardening.  
-- A defector claims that the Chain Cells hold something older than Respite itself.  
-- A section of the wall “melts” one night — and reforms with a new, unknown symbol.

@@ -16,12 +16,3 @@ Clerics here bless new trade pacts, sanctify warehouses, and oversee ethical lab
 - **Hall of Balances:** Where trade disputes are arbitrated by clerics wielding enchanted scales.
 
 ---
-
-## Secrets (GM Only)
-- The brazier’s flame burns blue when it detects souls bound by infernal contract — it has begun doing so nightly.  
-- The Abadaran priests suspect Hammergate’s materials are being rerouted toward a “private project” sanctioned by the [[Pontifex of Respite]].  
-
----
-
-### Cross-Links
-[[Hammergate]] • [[Abadar]] • [[Archon Varrin Calistane]] • [[Golden Ledger]]

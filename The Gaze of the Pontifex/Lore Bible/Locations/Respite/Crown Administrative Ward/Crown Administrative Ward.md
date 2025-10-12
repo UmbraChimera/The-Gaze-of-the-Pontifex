@@ -51,22 +51,6 @@ The [[Golden Ledger]]’s smaller branches handle daily taxation, while contract
 
 ---
 
-## Crime & Corruption
-Bribery is heresy here — but also a fine art.  
-Abadaran clerks are incorruptible in theory, yet “expedience donations” move paperwork faster.  
-Rumors whisper that infernal contracts signed by [[Prelate Korven Dreadmark]] circulate through the archives unseen.
-
-> *“Order is not perfection — it is persistence.”*
-
----
-
-## Rumors
-- *A missing page from the Bureau’s archives contains the first law ever written in Respite.*  
-- *The Registrar’s Hall sometimes lists children who haven’t been born yet.*  
-- *A vault beneath the Treasury Court holds the true version of the Conclave’s founding pact — complete with a seventeenth signature.*  
-
----
-
 ## Common Shops & Services
 | Type | Name | Description |
 |------|------|-------------|
@@ -77,9 +61,3 @@ Rumors whisper that infernal contracts signed by [[Prelate Korven Dreadmark]] ci
 | Bookshop | **The Civic Codex** | Carries authorized law texts and banned apocrypha “for study.” |
 | Inn | **The Square’s Rest** | Housing for visiting bureaucrats and inquisitors. |
 
----
-
-## GM Hooks
-- A Conclave edict is issued — but no one remembers writing it.  
-- A clerk vanishes after filing a “petition of annulment” against a divine law.  
-- An infernal ledger appears in the Bureau, its entries written in living script.

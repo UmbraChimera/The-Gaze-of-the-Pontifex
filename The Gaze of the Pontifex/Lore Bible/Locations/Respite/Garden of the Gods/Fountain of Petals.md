@@ -36,24 +36,5 @@ Drawing water without blessing is forbidden, though petals from the basin may be
 
 ---
 
-## Encounters & Secrets
-- **The Petal Choir:** Young acolytes who weave art and healing magic; their songs restore morale and mend hearts.  
-- **The Buried Lyre:** Hidden beneath the basin, an ancient relic said to sing in harmony with the Spire itself.  
-- **Color Shift:** The water subtly darkens when blood is spilled nearby — an omen the clergy never discuss.
-
----
-
-## Adventure Hooks
-- **A Broken Hymn:** The fountain’s hum ceases, and its petals wither overnight. The PCs must trace the source of the silence.  
-- **Tears in Bloom:** Strange blossoms sprout on holy statues across the city — all share the fountain’s scent.  
-- **Portrait of the Pontifex:** A painting blessed in the fountain’s water begins to change nightly, revealing hidden figures behind him.
-
----
-
-## Notes
-To Shelyn’s faithful, the Fountain is proof that beauty transcends suffering; to others, it is proof that even joy in Respite must be guarded.
-
----
-
 ### Cross-Links
 [[Pontifex of Respite]] • [[Conclave of Faiths]] • [[Sanctified Guard]] • [[Garden of the Gods]] • [[Crown of Faith]]

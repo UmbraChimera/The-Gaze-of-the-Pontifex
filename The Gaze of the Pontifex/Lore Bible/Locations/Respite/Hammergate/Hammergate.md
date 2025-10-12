@@ -51,23 +51,6 @@ Every finished tool, every nail, carries a prayer burned into its metal: *“Dut
 
 ---
 
-## Crime & Corruption
-Hammergate is the furnace of both virtue and vice.  
-Black-market smelters divert materials into underground caches, and labor guilds sometimes clash violently with the priesthood.  
-“Forge accidents” conveniently remove those who question quotas.  
-The [[Sanctified Guard]]’s **Iron Sentinels** maintain order, but every fire hides whispers.
-
-> *“In Hammergate, everyone’s faith burns — some brighter, some faster.”*
-
----
-
-## Rumors
-- *A hidden forge produces weapons that hum with divine resonance — tools of the gods themselves.*  
-- *A half-molten statue beneath the Anvil Works weeps glowing metal that never cools.*  
-- *An unmarked shipment of chain has vanished — some say it was meant for something bound beneath the [[The Spire]].*  
-
----
-
 ## Common Shops & Services
 | Type | Name | Description |
 |------|------|-------------|
@@ -79,9 +62,3 @@ The [[Sanctified Guard]]’s **Iron Sentinels** maintain order, but every fire h
 | Armorer | **Steel in Faith** | Crafts armor engraved with divine runes; clientele mostly Sanctified Guard officers. |
 | Magic Shop | **Runefire Artifice** | Enchanters specializing in permanent blessings and elemental bindings. |
 
----
-
-## GM Hooks
-- A prototype war machine forged under divine inspiration has gone missing.  
-- Union unrest threatens to collapse the city’s weapons supply unless the PCs mediate or expose saboteurs.  
-- A mysterious “blue fire” erupts in the foundries at night, drawing the PCs into a divine resonance mystery tied to the [[The Spire]].

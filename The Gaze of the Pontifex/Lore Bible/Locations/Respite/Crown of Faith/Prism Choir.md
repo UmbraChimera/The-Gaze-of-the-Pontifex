@@ -21,11 +21,5 @@ Sunlight through thousands of stained glass panels paints the air with color. Th
 
 ---
 
-## Secrets (GM Only)
-- Beneath the choir floor lies an unfinished catacomb — *The Foundation of Harmony* — where early Pontifexes are entombed in glass sarcophagi.  
-- A single black rose grows in the Pontifex’s garden. It never wilts. No one dares to touch it.
-
----
-
 ### Cross-Links
 [[Crown of Faith]] • [[Shelyn]] • [[Pontifex of Respite]] • [[The Spire]]

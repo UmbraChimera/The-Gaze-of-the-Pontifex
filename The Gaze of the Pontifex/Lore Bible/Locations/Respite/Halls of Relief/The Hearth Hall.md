@@ -40,26 +40,3 @@ During major holy days, the [[Sanctified Guard]] quietly assist in distributing 
 The Hall closes only for one hour before dawn, when its fires are ritually stoked anew.
 
 ---
-
-## Encounters & Secrets
-- **High Elder Branik Feldt:** Aging human priest with soot-stained hands; believes community is stronger than doctrine.  
-- **The Ever-Burning Hearthstone:** A relic beneath the main oven that radiates warmth year-round — said to have been placed there by Erastil himself.  
-- **Hidden Ledger:** A record of every family aided by the Hall; blank pages at the end appear to write new names overnight.  
-- **The Hollow Beam:** An empty rafter used by couriers to pass anonymous letters and donations — a tolerated secret known to many.
-
----
-
-## Adventure Hooks
-- **Bread of the Gods:** A shipment of blessed grain fails to arrive; hunger riots threaten unless the PCs escort the wagons safely through the outer rings.  
-- **Lessons Unlearned:** A child from the Learning Loft displays sudden divine magic — but no known lineage or holy training.  
-- **A Meal for All:** The Pontifex plans a symbolic feast at the Hall; the PCs must ensure peace among rival factions invited to dine together.
-
----
-
-## Notes
-The Hearth Hall embodies Erastil’s creed that **community is salvation**.  Its humble fires sustain the same faith that the Spire’s grandeur proclaims — that every life, no matter how small, warms the city’s soul.
-
----
-
-### Cross-Links
-[[Conclave of Faiths]] • [[Pontifex of Respite]] • [[Sanctified Guard]] • [[Halls of Relief]] • [[Cathedral of the Dawn]]

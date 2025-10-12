@@ -33,25 +33,5 @@ Necromancy and spirit communication are strictly forbidden; even [[Gravewarden O
 
 ---
 
-## Encounters & Secrets
-- **Gravewarden Orrin Varith:** The keeper-priest, who secretly believes the city’s dead do not truly leave.  
-- **The Silent Bell:** When struck, makes no sound — yet drives away undead for a full day.  
-- **The Rooted Tomb:** Beneath a massive birch lies an ancient sarcophagus entwined with living roots.
-
----
-
-## Adventure Hooks
-- **The Unending Wake:** Ghostly mourners appear nightly, reliving a funeral no one remembers.  
-- **Petal and Bone:** Blossoms from the [[Fountain of Petals]] begin appearing on graves unbidden.  
-- **Echo in the Pool:** A reflection shows a different sky — one without the Spire’s shadow.  
-
----
-
-## Notes
-To the faithful of Pharasma, the Silent Grove is where all questions end.  
-To the rest of Respite, it is where the city remembers that even gods must one day fall silent.
-
----
-
 ### Cross-Links
 [[Conclave of Faiths]] • [[Gravewarden Orrin Varith]] • [[Pontifex of Respite]] • [[Garden of the Gods]]

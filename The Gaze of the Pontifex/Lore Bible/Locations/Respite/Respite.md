@@ -96,17 +96,3 @@ Each faith contributes to the city’s balance:
 - [[Rovagug]] waits.
 
 ---
-
-## 🕵️ Intrigue & Hooks
-- **Faithful Surveillance:** [[Sanctified Guard]] patrols every district; blasphemy is criminal heresy.  
-- **Political Schisms:** Reformers rally under [[Dawnmother Serenya Vaelith]]; Traditionalists stand with [[Coronal Thalanil Aurelion]].  
-- **Divine Whispers:**  [[The Spire]]’s hum changes during full moons — arcane scholars hear a second tone buried beneath.  
-- **Symbolic Corruption:** Spirals begin appearing in art, mosaics, and architecture across the city — always where light meets shadow.  
-- **The Hidden Seventeenth:** The erased sigil of [[Rovagug]] glows faintly beneath the Hall of Concord when no one is watching.
-
----
-
-## ✨ Notes for Play (GM)
-- Respite functions as both capital and dungeon — every district holds layers of faith, corruption, and secrets.  
-- The PCs can explore politics, heresy, archaeology, or divine conspiracy without ever leaving the city walls.  
-- The deeper they delve, the closer they come to the **truth of the Covenant** — and the terrible choice to keep the Rough Beast chained… or let him free.

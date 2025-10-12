@@ -49,23 +49,7 @@ The **Aurelion Exchange**, a marketplace of silks, spices, and relics, is one of
 - [[Aurelion Gate]] — Monumental entryway between Respite and the riverlands, guarded by Abadar’s Gilded Watch.  
 - [[The Guild Piers]] — Dozens of floating chapels, shrines, and merchant barges sanctified for divine commerce.  
 
----
 
-## Crime & Corruption
-Smuggling thrives beneath sanctified trade.  
-Pirates turned pilgrims find asylum under Cayden’s banner, and forged contracts are an art form in themselves.  
-The **Black Tribunal** maintains informants here — their iron badges hidden beneath merchant robes.
-
-> *“Gold buys the gods’ silence faster than prayer.”*
-
----
-
-## Rumors
-- *The Dockspire’s light flickered black for a heartbeat last month — ships swore they saw chains in its glow.*  
-- *A shipment of divine relics disappeared mid-river; Abadar’s clerics claim the crates never existed.*  
-- *A cult prays to “the River Below,” claiming the Aurelion has a twin current flowing beneath the city.*  
-
----
 
 ## Common Shops & Services
 | Type | Name | Description |
@@ -78,8 +62,3 @@ The **Black Tribunal** maintains informants here — their iron badges hidden be
 | Smuggler Front | **The Sinking Scale** | Operates beneath a fishmonger’s shop; bribed Gilded Watch guards look the other way. |
 
 ---
-
-## GM Hooks
-- A divine cargo vanishes mid-river — the only clue is the faint scent of brine and incense.  
-- A merchant’s contract magically rewrites itself, nullifying debts owed to the Conclave.  
-- Strange tides draw ships upstream toward the [[The Spire]] at night, guided by unseen lights.

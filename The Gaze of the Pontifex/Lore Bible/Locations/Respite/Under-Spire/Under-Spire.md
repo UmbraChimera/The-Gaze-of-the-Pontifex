@@ -43,20 +43,6 @@ Pharasmin lanterns illuminate miles of sealed doors marked only by sigils of war
 None official. Artifacts recovered here are priceless — or cursed.  
 Illicit trade in relics and forbidden texts funds both scholars and heretics.
 
----
-
-## Crime & Corruption
-The most sacred law of Respite forbids unlicensed descent — yet expeditions occur nightly.  
-The [[Black Tribunal]]’s guards patrol to keep knowledge buried, but even they fear to go too deep.
-
-> *“The Spire is the lock. The Under-Spire is the keyhole.”*
-
----
-
-## Rumors
-- *The Annulus hums a melody that changes when Serenya prays.*  
-- *An entire patrol vanished after finding a spiral-shaped gate of light.*  
-- *Pharasmin clerics whisper that the dead buried here don’t rest — they listen.*
 
 ---
 
@@ -70,8 +56,3 @@ The [[Black Tribunal]]’s guards patrol to keep knowledge buried, but even they
 | Scriptorium | **The Silver Vein** | Copies forbidden records under guard supervision. |
 
 ---
-
-## GM Hooks
-- A tunnel collapse exposes something still *breathing.*  
-- The Annulus begins vibrating — the city above feels it in their bones.  
-- The PCs receive a message written on Under-Spire parchment — in their own handwriting.

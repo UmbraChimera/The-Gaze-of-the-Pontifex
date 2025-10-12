@@ -16,13 +16,3 @@ Its priests command the weather itself to protect the city — summoning winds t
 - **The Gale Chamber:** Open-roofed sanctum where Gozreh’s clergy commune with the sky.  
 
 ---
-
-## Secrets (GM Only)
-- The Tempest Engine occasionally activates without command, echoing the Spire’s pulse frequency.  
-- [[Warden Tharo Stormleaf]] suspects a spirit trapped inside the Engine calls itself “The River Below.”  
-- A thunderbolt once carved a spiral scorch mark into the Rainspire’s floor — it has never faded.  
-
----
-
-### Cross-Links
-[[The Bastion Wall]] • [[Gozreh]] • [[Warden Tharo Stormleaf]] • [[Pontifex of Respite]]

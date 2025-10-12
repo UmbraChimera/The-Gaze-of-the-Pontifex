@@ -17,12 +17,3 @@ From here, sixteen divine orders coordinate as one army under the banner of the 
 
 ---
 
-## Secrets (GM Only)
-- The seventeenth brazier in the Command Sanctum is hidden; its chain pattern matches that of [[Rovagug]].  
-- The Map of Flames flickers every time [[The Spire]] hums, briefly showing tunnels beneath the city.  
-- [[Prelate Korven Dreadmark]] maintains spies here — “for efficiency.”  
-
----
-
-### Cross-Links
-[[The Bastion Wall]] • [[Sanctified Guard]] • [[Pontifex of Respite]] • [[Prelate Korven Dreadmark]] • [[Battlelord Dorgar Ironspear]]

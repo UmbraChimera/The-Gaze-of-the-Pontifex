@@ -48,21 +48,6 @@ The Garden’s holy relic trade is the most subtle form of economy in Respite �
 
 ---
 
-## Crime & Corruption
-None visible — yet.  
-Rumors claim [[Lustbringer Velithra Thornkiss]] uses the secluded paths for diplomatic liaisons, and the [[Black Tribunal]] buries evidence beneath consecrated soil.
-
-> *“All gods walk here. Some linger longer than they should.”*
-
----
-
-## Rumors
-- *An unmarked shrine hums softly, its symbol a spiral of chains.*  
-- *Flowers in Shelyn’s fountain bloom black when the Spire hums too long.*  
-- *A spectral choir sings beneath the grove during the darkest nights.*
-
----
-
 ## Common Shops & Services
 | Type | Name | Description |
 |------|------|-------------|
@@ -73,9 +58,3 @@ Rumors claim [[Lustbringer Velithra Thornkiss]] uses the secluded paths for dipl
 | Healer | **The Verdant Path** | Herbal apothecary blending divine and natural remedies. |
 | Inn | **The Pilgrim’s Respite** | Tranquil lodging with open-air terraces. |
 
----
-
-## GM Hooks
-- A god’s shrine has gone dark; offerings rot overnight.  
-- A new statue appears — of no known deity — whispering in dreams.  
-- The Silent Grove’s dead begin leaving their own offerings at an unseen altar.

@@ -21,12 +21,5 @@ Trials here are both judicial and spiritual; oaths are sworn under divine scruti
 
 ---
 
-## Secrets (GM Only)
-- The sword over the dais has begun to flicker — a sign that divine justice is faltering.  
-- [[Prelate Korven Dreadmark]] has placed infernal runes here to manipulate trial outcomes.  
-- A secret passage connects to the Golden Ledger’s Vault of Truth, allowing corruption to hide behind faith.
-
----
-
 ### Cross-Links
 [[Crown of Faith]] • [[Iomedae]] • [[High Justiciar Arria Varus]] • [[Pontifex of Respite]] • [[Golden Ledger]]

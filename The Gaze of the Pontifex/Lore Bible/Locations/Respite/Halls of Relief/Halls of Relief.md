@@ -50,19 +50,6 @@ The **Golden Sun Market** acts as both bazaar and redistribution hub.
 
 ---
 
-## Crime & Corruption
-Petty theft and false charities plague the district.  
-Some healers sell divine blessings at extortionate rates.  
-And beneath the Cathedral, whispers speak of *The Spiral Vaults* — where the Chained Prophet’s first followers once met in secret.
-
-> *“Mercy breeds hope. Hope breeds change. Change terrifies gods and kings alike.”*
-
----
-
-## Rumors
-- *A patient in the Cathedral’s hospice glows with sunlight even in sleep — and speaks in tongues of fire.*  
-- *A priest of Sarenrae vanished after confessing that her miracles felt ‘borrowed.’*  
-- *A brewery in the Hero’s Rest produces ale that lets mortals relive divine visions.*  
 
 ---
 
@@ -75,10 +62,3 @@ And beneath the Cathedral, whispers speak of *The Spiral Vaults* — where the C
 | Tailor | **Threads of Grace** | Provides clothing for orphans and refugees; donations always welcome. |
 | Market | **Golden Sun Market** | Bazaar combining faith goods, relics, and free meals for the needy. |
 | Inn | **The Lantern’s Rest** | Comfortable lodging for pilgrims and volunteer healers. |
-
----
-
-## GM Hooks
-- An outbreak spreads faster than divine healing can contain — and the sick whisper in strange tongues.  
-- A generous noble donor disappears; their tithes may have been funding the Spiral’s rebirth.  
-- One of Serenya’s healers has discovered her true nature — and begs the PCs to help them escape the city.

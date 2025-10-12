@@ -31,15 +31,6 @@ Inns, taverns, shrines, and carts. Faith is currency — a blessing can buy a be
 - [[The Charity Spire]] — Sarenrite hospice and food bank.  
 - [[The Dawn Market]] — open plaza for trade, sermons, and public miracles.
 
-## Crime & Corruption
-Petty theft and exploitation abound. Fake priests sell “miracles.” Smugglers and heretics hide in the crowds. Desna’s **Silver Shields** patrol by starlight.
-
-> *“Hope feeds the hungry, but hunger eats hope.”*
-
-## Rumors
-- A blind beggar preaches with eyes glowing like the Spire.  
-- A caravan vanished inside the Charity Spire, leaving only echoes.  
-- Many pilgrims share the same dream: a golden spiral pulling them underground.
 
 ## Common Shops & Services
 | Type | Name | Description |
@@ -51,7 +42,3 @@ Petty theft and exploitation abound. Fake priests sell “miracles.” Smugglers
 | Shrine | **The Star’s Rest** | Desnan observatory; charts and interprets dreams. |
 | Healer | **Hands of Grace** | Modest clinic; founder vanished after a “miracle.” |
 
-## GM Hooks
-- A pilgrim met Serenya here the same hour she spoke in the Crown.  
-- A Desnan seer warns a “river of light” will burn/bless all it touches.  
-- A tavern vanishes overnight; a perfect spiral scorches the flagstones.

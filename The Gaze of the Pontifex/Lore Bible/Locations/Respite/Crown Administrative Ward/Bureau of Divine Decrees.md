@@ -17,12 +17,5 @@ Its corridors stretch for miles, lined with shelves of living parchment that rew
 
 ---
 
-## Secrets (GM Only)
-- The Witness Bell has been silent for a year — even during known crimes.  
-- A hidden annex called the *Annulus Office* stores laws that cannot be repealed. Its doors are chained with divine silver.  
-- [[Archon Varrin Calistane]] forbids entry after dark, citing “celestial audit.”  
-
----
-
 ### Cross-Links
 [[Crown Administrative Ward]] • [[Abadar]] • [[Iomedae]] • [[Archon Varrin Calistane]] • [[High Justiciar Arria Varus]]

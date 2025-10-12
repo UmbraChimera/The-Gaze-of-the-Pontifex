@@ -16,13 +16,3 @@ Here, the hammer’s rhythm is prayer, and molten iron flows like faith reborn.
 - **The Hall of Sparks:** A sanctum for inventions; every creation is blessed before it leaves the forge.
 
 ---
-
-## Secrets (GM Only)
-- Beneath the Works lies **The Ember Vault**, where failed divine weapons are stored — and some whisper, still alive.  
-- [[Forgefather  Korrim Anvilsine]] believes a secret passage links the Vault to the [[Under-Spire]].  
-- The Great Forge’s flame dims whenever [[Rovagug]] stirs.
-
----
-
-### Cross-Links
-[[Hammergate]] • [[Torag]] • [[Forgefather  Korrim Anvilsine]] • [[Under-Spire]]
